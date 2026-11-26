@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "HIS-001-001",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelle civilisation est considérée comme l'une des premières grandes civilisations de Mésopotamie ?",
+        "options": {
+          "A": "Les Sumériens",
+          "B": "Les Vikings",
+          "C": "Les Aztèques",
+          "D": "Les Incas"
+        },
+        "explanation": "Les Sumériens ont développé l'une des premières civilisations urbaines connues dans le sud de la Mésopotamie."
+      },
+      "en": {
+        "question": "Which civilization is considered one of the earliest major civilizations of Mesopotamia?",
+        "options": {
+          "A": "The Sumerians",
+          "B": "The Vikings",
+          "C": "The Aztecs",
+          "D": "The Incas"
+        },
+        "explanation": "The Sumerians developed one of the earliest known urban civilizations in southern Mesopotamia."
+      },
+      "es": {
+        "question": "¿Qué civilización se considera una de las primeras grandes civilizaciones de Mesopotamia?",
+        "options": {
+          "A": "Los sumerios",
+          "B": "Los vikingos",
+          "C": "Los aztecas",
+          "D": "Los incas"
+        },
+        "explanation": "Los sumerios desarrollaron una de las primeras civilizaciones urbanas conocidas en el sur de Mesopotamia."
+      },
+      "pt": {
+        "question": "Qual civilização é considerada uma das primeiras grandes civilizações da Mesopotâmia?",
+        "options": {
+          "A": "Os sumérios",
+          "B": "Os vikings",
+          "C": "Os astecas",
+          "D": "Os incas"
+        },
+        "explanation": "Os sumérios desenvolveram uma das primeiras civilizações urbanas conhecidas no sul da Mesopotâmia."
+      },
+      "ht": {
+        "question": "Ki sivilizasyon yo konsidere kòm youn nan premye gwo sivilizasyon Mezopotami yo?",
+        "options": {
+          "A": "Sumeryen yo",
+          "B": "Viking yo",
+          "C": "Aztèk yo",
+          "D": "Enka yo"
+        },
+        "explanation": "Sumeryen yo te devlope youn nan premye sivilizasyon iben yo konnen nan sid Mezopotami."
+      },
+      "de": {
+        "question": "Welche Zivilisation gilt als eine der frühesten großen Zivilisationen Mesopotamiens?",
+        "options": {
+          "A": "Die Sumerer",
+          "B": "Die Wikinger",
+          "C": "Die Azteken",
+          "D": "Die Inka"
+        },
+        "explanation": "Die Sumerer entwickelten eine der frühesten bekannten städtischen Zivilisationen im Süden Mesopotamiens."
+      },
+      "ar": {
+        "question": "أي حضارة تُعد من أقدم الحضارات الكبرى في بلاد الرافدين؟",
+        "options": {
+          "A": "السومريون",
+          "B": "الفايكنغ",
+          "C": "الأزتيك",
+          "D": "الإنكا"
+        },
+        "explanation": "طوّر السومريون واحدة من أقدم الحضارات الحضرية المعروفة في جنوب بلاد الرافدين."
+      },
+      "zh-CN": {
+        "question": "哪一文明被认为是美索不达米亚最早的主要文明之一？",
+        "options": {
+          "A": "苏美尔人",
+          "B": "维京人",
+          "C": "阿兹特克人",
+          "D": "印加人"
+        },
+        "explanation": "苏美尔人在美索不达米亚南部发展出了已知最早的城市文明之一。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-002",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quels fleuves traversaient la région historique de la Mésopotamie ?",
+        "options": {
+          "A": "Le Nil et le Niger",
+          "B": "Le Tigre et l'Euphrate",
+          "C": "Le Gange et l'Indus",
+          "D": "Le Danube et le Rhin"
+        },
+        "explanation": "La Mésopotamie, dont le nom signifie « entre les fleuves », se situait entre le Tigre et l'Euphrate."
+      },
+      "en": {
+        "question": "Which rivers flowed through the historical region of Mesopotamia?",
+        "options": {
+          "A": "The Nile and the Niger",
+          "B": "The Tigris and the Euphrates",
+          "C": "The Ganges and the Indus",
+          "D": "The Danube and the Rhine"
+        },
+        "explanation": "Mesopotamia means “between the rivers” and was located between the Tigris and Euphrates."
+      },
+      "es": {
+        "question": "¿Qué ríos atravesaban la región histórica de Mesopotamia?",
+        "options": {
+          "A": "El Nilo y el Níger",
+          "B": "El Tigris y el Éufrates",
+          "C": "El Ganges y el Indo",
+          "D": "El Danubio y el Rin"
+        },
+        "explanation": "Mesopotamia significa «entre ríos» y estaba situada entre el Tigris y el Éufrates."
+      },
+      "pt": {
+        "question": "Quais rios atravessavam a região histórica da Mesopotâmia?",
+        "options": {
+          "A": "O Nilo e o Níger",
+          "B": "O Tigre e o Eufrates",
+          "C": "O Ganges e o Indo",
+          "D": "O Danúbio e o Reno"
+        },
+        "explanation": "Mesopotâmia significa «entre rios» e ficava entre o Tigre e o Eufrates."
+      },
+      "ht": {
+        "question": "Ki rivyè ki te travèse rejyon istorik Mezopotami an?",
+        "options": {
+          "A": "Nil la ak Nijè a",
+          "B": "Tig la ak Efrat la",
+          "C": "Ganj la ak Endis la",
+          "D": "Danib la ak Rin nan"
+        },
+        "explanation": "Mo Mezopotami vle di «ant de rivyè»; rejyon an te chita ant Tig la ak Efrat la."
+      },
+      "de": {
+        "question": "Welche Flüsse durchzogen die historische Region Mesopotamien?",
+        "options": {
+          "A": "Nil und Niger",
+          "B": "Tigris und Euphrat",
+          "C": "Ganges und Indus",
+          "D": "Donau und Rhein"
+        },
+        "explanation": "Mesopotamien bedeutet „zwischen den Flüssen“ und lag zwischen Tigris und Euphrat."
+      },
+      "ar": {
+        "question": "ما النهران اللذان كانا يجريان في منطقة بلاد الرافدين التاريخية؟",
+        "options": {
+          "A": "النيل والنيجر",
+          "B": "دجلة والفرات",
+          "C": "الغانج والسند",
+          "D": "الدانوب والراين"
+        },
+        "explanation": "تعني بلاد الرافدين «بين النهرين»، وتقع بين دجلة والفرات."
+      },
+      "zh-CN": {
+        "question": "哪两条河流流经历史上的美索不达米亚地区？",
+        "options": {
+          "A": "尼罗河和尼日尔河",
+          "B": "底格里斯河和幼发拉底河",
+          "C": "恒河和印度河",
+          "D": "多瑙河和莱茵河"
+        },
+        "explanation": "美索不达米亚意为“两河之间”，位于底格里斯河与幼发拉底河之间。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-003",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quel fleuve était essentiel au développement de l'Égypte ancienne ?",
+        "options": {
+          "A": "Le Nil",
+          "B": "Le Tigre",
+          "C": "Le Mékong",
+          "D": "Le Mississippi"
+        },
+        "explanation": "Les crues du Nil apportaient de l'eau et des sols fertiles, favorisant l'agriculture égyptienne."
+      },
+      "en": {
+        "question": "Which river was essential to the development of ancient Egypt?",
+        "options": {
+          "A": "The Nile",
+          "B": "The Tigris",
+          "C": "The Mekong",
+          "D": "The Mississippi"
+        },
+        "explanation": "The Nile's floods supplied water and fertile soil that supported Egyptian agriculture."
+      },
+      "es": {
+        "question": "¿Qué río fue esencial para el desarrollo del antiguo Egipto?",
+        "options": {
+          "A": "El Nilo",
+          "B": "El Tigris",
+          "C": "El Mekong",
+          "D": "El Misisipi"
+        },
+        "explanation": "Las crecidas del Nilo aportaban agua y suelos fértiles que favorecían la agricultura egipcia."
+      },
+      "pt": {
+        "question": "Qual rio foi essencial para o desenvolvimento do antigo Egito?",
+        "options": {
+          "A": "O Nilo",
+          "B": "O Tigre",
+          "C": "O Mekong",
+          "D": "O Mississippi"
+        },
+        "explanation": "As cheias do Nilo forneciam água e solos férteis, favorecendo a agricultura egípcia."
+      },
+      "ht": {
+        "question": "Ki rivyè ki te enpòtan anpil pou devlopman ansyen peyi Lejip la?",
+        "options": {
+          "A": "Nil la",
+          "B": "Tig la",
+          "C": "Mekong nan",
+          "D": "Mississippi a"
+        },
+        "explanation": "Lè Nil la te desann, li te pote dlo ak tè fètil ki te ede agrikilti peyi Lejip la."
+      },
+      "de": {
+        "question": "Welcher Fluss war für die Entwicklung des alten Ägypten entscheidend?",
+        "options": {
+          "A": "Der Nil",
+          "B": "Der Tigris",
+          "C": "Der Mekong",
+          "D": "Der Mississippi"
+        },
+        "explanation": "Die Nilüberschwemmungen brachten Wasser und fruchtbaren Boden und unterstützten so die ägyptische Landwirtschaft."
+      },
+      "ar": {
+        "question": "أي نهر كان أساسياً لتطور مصر القديمة؟",
+        "options": {
+          "A": "النيل",
+          "B": "دجلة",
+          "C": "الميكونغ",
+          "D": "الميسيسيبي"
+        },
+        "explanation": "وفرت فيضانات النيل المياه والتربة الخصبة، مما ساعد الزراعة المصرية."
+      },
+      "zh-CN": {
+        "question": "哪条河流对古埃及的发展至关重要？",
+        "options": {
+          "A": "尼罗河",
+          "B": "底格里斯河",
+          "C": "湄公河",
+          "D": "密西西比河"
+        },
+        "explanation": "尼罗河泛滥带来水源和肥沃土壤，促进了埃及农业的发展。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-004",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quelle invention est associée aux Sumériens de Mésopotamie ?",
+        "options": {
+          "A": "L'imprimerie moderne",
+          "B": "L'écriture cunéiforme",
+          "C": "La boussole magnétique",
+          "D": "La poudre à canon"
+        },
+        "explanation": "Les Sumériens ont développé l'écriture cunéiforme, gravée notamment sur des tablettes d'argile."
+      },
+      "en": {
+        "question": "Which invention is associated with the Sumerians of Mesopotamia?",
+        "options": {
+          "A": "Modern printing",
+          "B": "Cuneiform writing",
+          "C": "The magnetic compass",
+          "D": "Gunpowder"
+        },
+        "explanation": "The Sumerians developed cuneiform writing, often inscribed on clay tablets."
+      },
+      "es": {
+        "question": "¿Qué invento se asocia con los sumerios de Mesopotamia?",
+        "options": {
+          "A": "La imprenta moderna",
+          "B": "La escritura cuneiforme",
+          "C": "La brújula magnética",
+          "D": "La pólvora"
+        },
+        "explanation": "Los sumerios desarrollaron la escritura cuneiforme, grabada a menudo en tablillas de arcilla."
+      },
+      "pt": {
+        "question": "Qual invenção está associada aos sumérios da Mesopotâmia?",
+        "options": {
+          "A": "A imprensa moderna",
+          "B": "A escrita cuneiforme",
+          "C": "A bússola magnética",
+          "D": "A pólvora"
+        },
+        "explanation": "Os sumérios desenvolveram a escrita cuneiforme, frequentemente gravada em tabuletas de argila."
+      },
+      "ht": {
+        "question": "Ki envansyon yo asosye ak Sumeryen Mezopotami yo?",
+        "options": {
+          "A": "Enpresyon modèn",
+          "B": "Ekriti kuneifòm",
+          "C": "Bousòl mayetik",
+          "D": "Poud pou zam"
+        },
+        "explanation": "Sumeryen yo te devlope ekriti kuneifòm, yo te konn grave sou tablèt ajil."
+      },
+      "de": {
+        "question": "Welche Erfindung wird mit den Sumerern Mesopotamiens verbunden?",
+        "options": {
+          "A": "Der moderne Buchdruck",
+          "B": "Die Keilschrift",
+          "C": "Der Magnetkompass",
+          "D": "Das Schießpulver"
+        },
+        "explanation": "Die Sumerer entwickelten die Keilschrift, die häufig in Tontafeln eingeritzt wurde."
+      },
+      "ar": {
+        "question": "أي اختراع يرتبط بالسومريين في بلاد الرافدين؟",
+        "options": {
+          "A": "الطباعة الحديثة",
+          "B": "الكتابة المسمارية",
+          "C": "البوصلة المغناطيسية",
+          "D": "البارود"
+        },
+        "explanation": "طوّر السومريون الكتابة المسمارية، وكانوا ينقشونها غالباً على ألواح طينية."
+      },
+      "zh-CN": {
+        "question": "哪项发明与美索不达米亚的苏美尔人有关？",
+        "options": {
+          "A": "现代印刷术",
+          "B": "楔形文字",
+          "C": "磁罗盘",
+          "D": "火药"
+        },
+        "explanation": "苏美尔人发展了楔形文字，常将文字刻写在泥板上。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-005",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Dans quelle ville le roi Hammurabi a-t-il régné ?",
+        "options": {
+          "A": "Athènes",
+          "B": "Babylone",
+          "C": "Carthage",
+          "D": "Alexandrie"
+        },
+        "explanation": "Hammurabi était un roi de Babylone, au XVIIIe siècle avant notre ère."
+      },
+      "en": {
+        "question": "In which city did King Hammurabi rule?",
+        "options": {
+          "A": "Athens",
+          "B": "Babylon",
+          "C": "Carthage",
+          "D": "Alexandria"
+        },
+        "explanation": "Hammurabi was a king of Babylon in the eighteenth century BCE."
+      },
+      "es": {
+        "question": "¿En qué ciudad gobernó el rey Hammurabi?",
+        "options": {
+          "A": "Atenas",
+          "B": "Babilonia",
+          "C": "Cartago",
+          "D": "Alejandría"
+        },
+        "explanation": "Hammurabi fue rey de Babilonia en el siglo XVIII antes de nuestra era."
+      },
+      "pt": {
+        "question": "Em qual cidade o rei Hamurábi governou?",
+        "options": {
+          "A": "Atenas",
+          "B": "Babilônia",
+          "C": "Cartago",
+          "D": "Alexandria"
+        },
+        "explanation": "Hamurábi foi rei da Babilônia no século XVIII antes da nossa era."
+      },
+      "ht": {
+        "question": "Nan ki vil wa Hammurabi te dirije?",
+        "options": {
+          "A": "Atèn",
+          "B": "Babilòn",
+          "C": "Katay",
+          "D": "Aleksandri"
+        },
+        "explanation": "Hammurabi te yon wa Babilòn nan 18yèm syèk anvan epòk nou an."
+      },
+      "de": {
+        "question": "In welcher Stadt herrschte König Hammurabi?",
+        "options": {
+          "A": "Athen",
+          "B": "Babylon",
+          "C": "Karthago",
+          "D": "Alexandria"
+        },
+        "explanation": "Hammurabi war im 18. Jahrhundert v. Chr. König von Babylon."
+      },
+      "ar": {
+        "question": "في أي مدينة حكم الملك حمورابي؟",
+        "options": {
+          "A": "أثينا",
+          "B": "بابل",
+          "C": "قرطاج",
+          "D": "الإسكندرية"
+        },
+        "explanation": "كان حمورابي ملكاً على بابل في القرن الثامن عشر قبل الميلاد."
+      },
+      "zh-CN": {
+        "question": "汉谟拉比国王统治哪座城市？",
+        "options": {
+          "A": "雅典",
+          "B": "巴比伦",
+          "C": "迦太基",
+          "D": "亚历山大城"
+        },
+        "explanation": "汉谟拉比是公元前18世纪的巴比伦国王。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-006",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "À quoi le Code d'Hammurabi est-il principalement associé ?",
+        "options": {
+          "A": "À un ensemble de lois",
+          "B": "À un traité de navigation",
+          "C": "À un calendrier agricole",
+          "D": "À un recueil de poèmes"
+        },
+        "explanation": "Le Code d'Hammurabi est un célèbre recueil de lois de l'ancienne Babylone."
+      },
+      "en": {
+        "question": "What is the Code of Hammurabi mainly associated with?",
+        "options": {
+          "A": "A collection of laws",
+          "B": "A navigation treaty",
+          "C": "An agricultural calendar",
+          "D": "A collection of poems"
+        },
+        "explanation": "The Code of Hammurabi is a famous collection of laws from ancient Babylon."
+      },
+      "es": {
+        "question": "¿Con qué se relaciona principalmente el Código de Hammurabi?",
+        "options": {
+          "A": "Un conjunto de leyes",
+          "B": "Un tratado de navegación",
+          "C": "Un calendario agrícola",
+          "D": "Una colección de poemas"
+        },
+        "explanation": "El Código de Hammurabi es una famosa recopilación de leyes de la antigua Babilonia."
+      },
+      "pt": {
+        "question": "A que o Código de Hamurábi está principalmente associado?",
+        "options": {
+          "A": "A um conjunto de leis",
+          "B": "A um tratado de navegação",
+          "C": "A um calendário agrícola",
+          "D": "A uma coletânea de poemas"
+        },
+        "explanation": "O Código de Hamurábi é uma famosa coletânea de leis da antiga Babilônia."
+      },
+      "ht": {
+        "question": "Ak kisa Kòd Hammurabi a sitou asosye?",
+        "options": {
+          "A": "Yon ansanm lwa",
+          "B": "Yon trete navigasyon",
+          "C": "Yon kalandriye agrikòl",
+          "D": "Yon koleksyon powèm"
+        },
+        "explanation": "Kòd Hammurabi a se yon pi popilè koleksyon lwa nan ansyen Babilòn."
+      },
+      "de": {
+        "question": "Womit wird der Codex Hammurabi hauptsächlich verbunden?",
+        "options": {
+          "A": "Mit einer Gesetzessammlung",
+          "B": "Mit einem Schifffahrtsvertrag",
+          "C": "Mit einem Landwirtschaftskalender",
+          "D": "Mit einer Gedichtsammlung"
+        },
+        "explanation": "Der Codex Hammurabi ist eine berühmte Gesetzessammlung des alten Babylon."
+      },
+      "ar": {
+        "question": "بماذا ترتبط شريعة حمورابي أساساً؟",
+        "options": {
+          "A": "مجموعة من القوانين",
+          "B": "معاهدة للملاحة",
+          "C": "تقويم زراعي",
+          "D": "مجموعة من القصائد"
+        },
+        "explanation": "شريعة حمورابي مجموعة مشهورة من القوانين في بابل القديمة."
+      },
+      "zh-CN": {
+        "question": "《汉谟拉比法典》主要与什么有关？",
+        "options": {
+          "A": "一部法律汇编",
+          "B": "一项航海条约",
+          "C": "一部农业历法",
+          "D": "一部诗歌集"
+        },
+        "explanation": "《汉谟拉比法典》是古巴比伦著名的法律汇编。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-007",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "Quel peuple a construit les grandes pyramides de Gizeh ?",
+        "options": {
+          "A": "Les Phéniciens",
+          "B": "Les Perses",
+          "C": "Les anciens Égyptiens",
+          "D": "Les Minoens"
+        },
+        "explanation": "Les pyramides de Gizeh ont été construites dans l'Égypte ancienne, notamment durant l'Ancien Empire."
+      },
+      "en": {
+        "question": "Which people built the Great Pyramids of Giza?",
+        "options": {
+          "A": "The Phoenicians",
+          "B": "The Persians",
+          "C": "The ancient Egyptians",
+          "D": "The Minoans"
+        },
+        "explanation": "The Giza pyramids were built in ancient Egypt, especially during the Old Kingdom."
+      },
+      "es": {
+        "question": "¿Qué pueblo construyó las grandes pirámides de Guiza?",
+        "options": {
+          "A": "Los fenicios",
+          "B": "Los persas",
+          "C": "Los antiguos egipcios",
+          "D": "Los minoicos"
+        },
+        "explanation": "Las pirámides de Guiza se construyeron en el antiguo Egipto, especialmente durante el Imperio Antiguo."
+      },
+      "pt": {
+        "question": "Qual povo construiu as grandes pirâmides de Gizé?",
+        "options": {
+          "A": "Os fenícios",
+          "B": "Os persas",
+          "C": "Os antigos egípcios",
+          "D": "Os minoicos"
+        },
+        "explanation": "As pirâmides de Gizé foram construídas no antigo Egito, especialmente durante o Antigo Império."
+      },
+      "ht": {
+        "question": "Ki pèp ki te bati gwo piramid Giza yo?",
+        "options": {
+          "A": "Fenisyen yo",
+          "B": "Pès yo",
+          "C": "Ansyen Ejipsyen yo",
+          "D": "Minoen yo"
+        },
+        "explanation": "Yo te bati piramid Giza yo nan ansyen peyi Lejip, sitou pandan Ansyen Anpi a."
+      },
+      "de": {
+        "question": "Welches Volk errichtete die großen Pyramiden von Gizeh?",
+        "options": {
+          "A": "Die Phönizier",
+          "B": "Die Perser",
+          "C": "Die alten Ägypter",
+          "D": "Die Minoer"
+        },
+        "explanation": "Die Pyramiden von Gizeh wurden im alten Ägypten errichtet, besonders während des Alten Reiches."
+      },
+      "ar": {
+        "question": "أي شعب بنى أهرامات الجيزة الكبرى؟",
+        "options": {
+          "A": "الفينيقيون",
+          "B": "الفرس",
+          "C": "المصريون القدماء",
+          "D": "المينويون"
+        },
+        "explanation": "بُنيت أهرامات الجيزة في مصر القديمة، ولا سيما خلال عصر الدولة القديمة."
+      },
+      "zh-CN": {
+        "question": "哪个民族建造了吉萨的大金字塔？",
+        "options": {
+          "A": "腓尼基人",
+          "B": "波斯人",
+          "C": "古埃及人",
+          "D": "米诺斯人"
+        },
+        "explanation": "吉萨金字塔建于古埃及，尤其是在古王国时期。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-008",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelle civilisation est associée au site archéologique de Harappa, dans la vallée de l'Indus ?",
+        "options": {
+          "A": "La civilisation de l'Indus",
+          "B": "La civilisation maya",
+          "C": "La civilisation étrusque",
+          "D": "La civilisation minoenne"
+        },
+        "explanation": "Harappa était l'un des grands centres urbains de la civilisation de la vallée de l'Indus."
+      },
+      "en": {
+        "question": "Which civilization is associated with the archaeological site of Harappa in the Indus Valley?",
+        "options": {
+          "A": "The Indus Valley Civilization",
+          "B": "The Maya civilization",
+          "C": "The Etruscan civilization",
+          "D": "The Minoan civilization"
+        },
+        "explanation": "Harappa was one of the major urban centers of the Indus Valley Civilization."
+      },
+      "es": {
+        "question": "¿Qué civilización está relacionada con el yacimiento arqueológico de Harappa, en el valle del Indo?",
+        "options": {
+          "A": "La civilización del valle del Indo",
+          "B": "La civilización maya",
+          "C": "La civilización etrusca",
+          "D": "La civilización minoica"
+        },
+        "explanation": "Harappa fue uno de los principales centros urbanos de la civilización del valle del Indo."
+      },
+      "pt": {
+        "question": "Qual civilização está associada ao sítio arqueológico de Harappa, no vale do Indo?",
+        "options": {
+          "A": "A Civilização do Vale do Indo",
+          "B": "A civilização maia",
+          "C": "A civilização etrusca",
+          "D": "A civilização minoica"
+        },
+        "explanation": "Harappa foi um dos principais centros urbanos da Civilização do Vale do Indo."
+      },
+      "ht": {
+        "question": "Ki sivilizasyon yo asosye ak sit akeyolojik Harappa nan vale Endis la?",
+        "options": {
+          "A": "Sivilizasyon vale Endis la",
+          "B": "Sivilizasyon Maya a",
+          "C": "Sivilizasyon Etrisk la",
+          "D": "Sivilizasyon Minoen an"
+        },
+        "explanation": "Harappa te youn nan gwo sant iben sivilizasyon vale Endis la."
+      },
+      "de": {
+        "question": "Welche Zivilisation ist mit der archäologischen Stätte Harappa im Industal verbunden?",
+        "options": {
+          "A": "Die Indus-Zivilisation",
+          "B": "Die Maya-Zivilisation",
+          "C": "Die etruskische Zivilisation",
+          "D": "Die minoische Zivilisation"
+        },
+        "explanation": "Harappa war eines der bedeutenden städtischen Zentren der Indus-Zivilisation."
+      },
+      "ar": {
+        "question": "أي حضارة ترتبط بموقع هارابا الأثري في وادي السند؟",
+        "options": {
+          "A": "حضارة وادي السند",
+          "B": "حضارة المايا",
+          "C": "الحضارة الإتروسكانية",
+          "D": "الحضارة المينوية"
+        },
+        "explanation": "كانت هارابا أحد المراكز الحضرية الكبرى لحضارة وادي السند."
+      },
+      "zh-CN": {
+        "question": "印度河流域的哈拉帕考古遗址与哪一文明有关？",
+        "options": {
+          "A": "印度河流域文明",
+          "B": "玛雅文明",
+          "C": "伊特鲁里亚文明",
+          "D": "米诺斯文明"
+        },
+        "explanation": "哈拉帕是印度河流域文明的重要城市中心之一。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-009",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quel était l'un des principaux centres de la civilisation minoenne ?",
+        "options": {
+          "A": "Knossos",
+          "B": "Pompéi",
+          "C": "Ur",
+          "D": "Persépolis"
+        },
+        "explanation": "Knossos, en Crète, était un important centre politique et culturel de la civilisation minoenne."
+      },
+      "en": {
+        "question": "What was one of the main centers of the Minoan civilization?",
+        "options": {
+          "A": "Knossos",
+          "B": "Pompeii",
+          "C": "Ur",
+          "D": "Persepolis"
+        },
+        "explanation": "Knossos, on Crete, was an important political and cultural center of the Minoan civilization."
+      },
+      "es": {
+        "question": "¿Cuál fue uno de los principales centros de la civilización minoica?",
+        "options": {
+          "A": "Cnosos",
+          "B": "Pompeya",
+          "C": "Ur",
+          "D": "Persépolis"
+        },
+        "explanation": "Cnosos, en Creta, fue un importante centro político y cultural de la civilización minoica."
+      },
+      "pt": {
+        "question": "Qual era um dos principais centros da civilização minoica?",
+        "options": {
+          "A": "Cnossos",
+          "B": "Pompeia",
+          "C": "Ur",
+          "D": "Persépolis"
+        },
+        "explanation": "Cnossos, em Creta, era um importante centro político e cultural da civilização minoica."
+      },
+      "ht": {
+        "question": "Ki youn nan prensipal sant sivilizasyon Minoen an te ye?",
+        "options": {
+          "A": "Knossos",
+          "B": "Pompeyi",
+          "C": "Our",
+          "D": "Persepolis"
+        },
+        "explanation": "Knossos, sou zile Krèt, te yon gwo sant politik ak kiltirèl sivilizasyon Minoen an."
+      },
+      "de": {
+        "question": "Welches war eines der wichtigsten Zentren der minoischen Zivilisation?",
+        "options": {
+          "A": "Knossos",
+          "B": "Pompeji",
+          "C": "Ur",
+          "D": "Persepolis"
+        },
+        "explanation": "Knossos auf Kreta war ein wichtiges politisches und kulturelles Zentrum der minoischen Zivilisation."
+      },
+      "ar": {
+        "question": "ما أحد المراكز الرئيسية للحضارة المينوية؟",
+        "options": {
+          "A": "كنوسوس",
+          "B": "بومبي",
+          "C": "أور",
+          "D": "برسيبوليس"
+        },
+        "explanation": "كانت كنوسوس في جزيرة كريت مركزاً سياسياً وثقافياً مهماً للحضارة المينوية."
+      },
+      "zh-CN": {
+        "question": "米诺斯文明的一个主要中心是哪里？",
+        "options": {
+          "A": "克诺索斯",
+          "B": "庞贝",
+          "C": "乌尔",
+          "D": "波斯波利斯"
+        },
+        "explanation": "克诺索斯位于克里特岛，是米诺斯文明重要的政治和文化中心。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-010",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Sur quelle péninsule s'est principalement développée la civilisation de la Grèce antique ?",
+        "options": {
+          "A": "La péninsule Ibérique",
+          "B": "La péninsule Balkanique",
+          "C": "La péninsule Arabique",
+          "D": "La péninsule Scandinave"
+        },
+        "explanation": "La Grèce antique s'est développée principalement dans le sud de la péninsule Balkanique et dans les îles voisines."
+      },
+      "en": {
+        "question": "On which peninsula did ancient Greek civilization develop mainly?",
+        "options": {
+          "A": "The Iberian Peninsula",
+          "B": "The Balkan Peninsula",
+          "C": "The Arabian Peninsula",
+          "D": "The Scandinavian Peninsula"
+        },
+        "explanation": "Ancient Greece developed mainly in the southern Balkan Peninsula and nearby islands."
+      },
+      "es": {
+        "question": "¿En qué península se desarrolló principalmente la civilización de la antigua Grecia?",
+        "options": {
+          "A": "La península ibérica",
+          "B": "La península balcánica",
+          "C": "La península arábiga",
+          "D": "La península escandinava"
+        },
+        "explanation": "La antigua Grecia se desarrolló principalmente en el sur de la península balcánica y en las islas cercanas."
+      },
+      "pt": {
+        "question": "Em qual península a civilização da Grécia antiga se desenvolveu principalmente?",
+        "options": {
+          "A": "A Península Ibérica",
+          "B": "A Península Balcânica",
+          "C": "A Península Arábica",
+          "D": "A Península Escandinava"
+        },
+        "explanation": "A Grécia antiga desenvolveu-se principalmente no sul da Península Balcânica e nas ilhas próximas."
+      },
+      "ht": {
+        "question": "Sou ki penensil sivilizasyon ansyen Lagrès la te devlope sitou?",
+        "options": {
+          "A": "Penensil Ibèrik la",
+          "B": "Penensil Balkan an",
+          "C": "Penensil Arabi a",
+          "D": "Penensil Eskandinavi a"
+        },
+        "explanation": "Ansyen Lagrès te devlope sitou nan sid penensil Balkan an ak sou zile ki toupre yo."
+      },
+      "de": {
+        "question": "Auf welcher Halbinsel entwickelte sich die Zivilisation des antiken Griechenlands hauptsächlich?",
+        "options": {
+          "A": "Auf der Iberischen Halbinsel",
+          "B": "Auf der Balkanhalbinsel",
+          "C": "Auf der Arabischen Halbinsel",
+          "D": "Auf der Skandinavischen Halbinsel"
+        },
+        "explanation": "Das antike Griechenland entwickelte sich hauptsächlich im Süden der Balkanhalbinsel und auf den nahe gelegenen Inseln."
+      },
+      "ar": {
+        "question": "في أي شبه جزيرة تطورت حضارة اليونان القديمة بصورة رئيسية؟",
+        "options": {
+          "A": "شبه الجزيرة الأيبيرية",
+          "B": "شبه جزيرة البلقان",
+          "C": "شبه الجزيرة العربية",
+          "D": "شبه الجزيرة الإسكندنافية"
+        },
+        "explanation": "تطورت اليونان القديمة أساساً في جنوب شبه جزيرة البلقان والجزر القريبة."
+      },
+      "zh-CN": {
+        "question": "古希腊文明主要发展于哪一半岛？",
+        "options": {
+          "A": "伊比利亚半岛",
+          "B": "巴尔干半岛",
+          "C": "阿拉伯半岛",
+          "D": "斯堪的纳维亚半岛"
+        },
+        "explanation": "古希腊主要发展于巴尔干半岛南部及附近岛屿。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-011",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "Quelle cité grecque est traditionnellement associée au développement de la démocratie ?",
+        "options": {
+          "A": "Sparte",
+          "B": "Corinthe",
+          "C": "Athènes",
+          "D": "Troie"
+        },
+        "explanation": "Athènes est particulièrement connue pour le développement d'une forme ancienne de démocratie au Ve siècle avant notre ère."
+      },
+      "en": {
+        "question": "Which Greek city is traditionally associated with the development of democracy?",
+        "options": {
+          "A": "Sparta",
+          "B": "Corinth",
+          "C": "Athens",
+          "D": "Troy"
+        },
+        "explanation": "Athens is especially known for developing an early form of democracy in the fifth century BCE."
+      },
+      "es": {
+        "question": "¿Qué ciudad griega se asocia tradicionalmente con el desarrollo de la democracia?",
+        "options": {
+          "A": "Esparta",
+          "B": "Corinto",
+          "C": "Atenas",
+          "D": "Troya"
+        },
+        "explanation": "Atenas es conocida especialmente por desarrollar una forma temprana de democracia en el siglo V antes de nuestra era."
+      },
+      "pt": {
+        "question": "Qual cidade grega é tradicionalmente associada ao desenvolvimento da democracia?",
+        "options": {
+          "A": "Esparta",
+          "B": "Corinto",
+          "C": "Atenas",
+          "D": "Troia"
+        },
+        "explanation": "Atenas é especialmente conhecida pelo desenvolvimento de uma forma antiga de democracia no século V antes da nossa era."
+      },
+      "ht": {
+        "question": "Ki vil grèk yo asosye tradisyonèlman ak devlopman demokrasi a?",
+        "options": {
+          "A": "Spat",
+          "B": "Korent",
+          "C": "Atèn",
+          "D": "Twaw"
+        },
+        "explanation": "Atèn se vil yo konnen sitou pou devlopman yon ansyen fòm demokrasi nan 5yèm syèk anvan epòk nou an."
+      },
+      "de": {
+        "question": "Welche griechische Stadt wird traditionell mit der Entwicklung der Demokratie verbunden?",
+        "options": {
+          "A": "Sparta",
+          "B": "Korinth",
+          "C": "Athen",
+          "D": "Troja"
+        },
+        "explanation": "Athen ist besonders für die Entwicklung einer frühen Form der Demokratie im 5. Jahrhundert v. Chr. bekannt."
+      },
+      "ar": {
+        "question": "أي مدينة يونانية ترتبط تقليدياً بتطور الديمقراطية؟",
+        "options": {
+          "A": "إسبرطة",
+          "B": "كورنثوس",
+          "C": "أثينا",
+          "D": "طروادة"
+        },
+        "explanation": "تشتهر أثينا بتطوير شكل مبكر من الديمقراطية في القرن الخامس قبل الميلاد."
+      },
+      "zh-CN": {
+        "question": "哪座希腊城邦通常与民主制度的发展联系在一起？",
+        "options": {
+          "A": "斯巴达",
+          "B": "科林斯",
+          "C": "雅典",
+          "D": "特洛伊"
+        },
+        "explanation": "雅典因在公元前5世纪发展出早期民主形式而闻名。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-012",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quel peuple a construit un vaste réseau de routes autour de la Méditerranée et au-delà ?",
+        "options": {
+          "A": "Les Romains",
+          "B": "Les Hittites",
+          "C": "Les Aztèques",
+          "D": "Les Phéniciens"
+        },
+        "explanation": "Les Romains ont construit et entretenu un vaste réseau routier pour relier les territoires de leur empire."
+      },
+      "en": {
+        "question": "Which people built an extensive network of roads around the Mediterranean and beyond?",
+        "options": {
+          "A": "The Romans",
+          "B": "The Hittites",
+          "C": "The Aztecs",
+          "D": "The Phoenicians"
+        },
+        "explanation": "The Romans built and maintained a large road network connecting territories across their empire."
+      },
+      "es": {
+        "question": "¿Qué pueblo construyó una extensa red de caminos alrededor del Mediterráneo y más allá?",
+        "options": {
+          "A": "Los romanos",
+          "B": "Los hititas",
+          "C": "Los aztecas",
+          "D": "Los fenicios"
+        },
+        "explanation": "Los romanos construyeron y mantuvieron una amplia red de caminos para conectar los territorios de su imperio."
+      },
+      "pt": {
+        "question": "Qual povo construiu uma extensa rede de estradas ao redor do Mediterrâneo e além?",
+        "options": {
+          "A": "Os romanos",
+          "B": "Os hititas",
+          "C": "Os astecas",
+          "D": "Os fenícios"
+        },
+        "explanation": "Os romanos construíram e mantiveram uma ampla rede de estradas para ligar os territórios do seu império."
+      },
+      "ht": {
+        "question": "Ki pèp ki te bati yon gwo rezo wout nan tout zòn Mediterane a ak pi lwen?",
+        "options": {
+          "A": "Women yo",
+          "B": "Ittit yo",
+          "C": "Aztèk yo",
+          "D": "Fenisyen yo"
+        },
+        "explanation": "Women yo te bati epi konsève anpil wout pou konekte teritwa anpi yo a."
+      },
+      "de": {
+        "question": "Welches Volk errichtete ein ausgedehntes Straßennetz rund um das Mittelmeer und darüber hinaus?",
+        "options": {
+          "A": "Die Römer",
+          "B": "Die Hethiter",
+          "C": "Die Azteken",
+          "D": "Die Phönizier"
+        },
+        "explanation": "Die Römer bauten und unterhielten ein großes Straßennetz, das Gebiete ihres Reiches verband."
+      },
+      "ar": {
+        "question": "أي شعب بنى شبكة واسعة من الطرق حول البحر المتوسط وما وراءه؟",
+        "options": {
+          "A": "الرومان",
+          "B": "الحيثيون",
+          "C": "الأزتيك",
+          "D": "الفينيقيون"
+        },
+        "explanation": "بنى الرومان شبكة واسعة من الطرق وصانوها لربط أراضي إمبراطوريتهم."
+      },
+      "zh-CN": {
+        "question": "哪个民族修建了环绕地中海并延伸至更远地区的广泛道路网？",
+        "options": {
+          "A": "罗马人",
+          "B": "赫梯人",
+          "C": "阿兹特克人",
+          "D": "腓尼基人"
+        },
+        "explanation": "罗马人修建并维护了庞大的道路网，以连接帝国各地。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-013",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quelle ville était la capitale de l'Empire romain pendant une grande partie de son histoire ?",
+        "options": {
+          "A": "Carthage",
+          "B": "Rome",
+          "C": "Jérusalem",
+          "D": "Alexandrie"
+        },
+        "explanation": "Rome fut le centre politique de l'Empire romain pendant une grande partie de son histoire, avant les évolutions de l'Empire tardif."
+      },
+      "en": {
+        "question": "Which city was the capital of the Roman Empire for much of its history?",
+        "options": {
+          "A": "Carthage",
+          "B": "Rome",
+          "C": "Jerusalem",
+          "D": "Alexandria"
+        },
+        "explanation": "Rome was the political center of the Roman Empire for much of its history, before changes in the late Empire."
+      },
+      "es": {
+        "question": "¿Qué ciudad fue la capital del Imperio romano durante gran parte de su historia?",
+        "options": {
+          "A": "Cartago",
+          "B": "Roma",
+          "C": "Jerusalén",
+          "D": "Alejandría"
+        },
+        "explanation": "Roma fue el centro político del Imperio romano durante gran parte de su historia, antes de los cambios del Imperio tardío."
+      },
+      "pt": {
+        "question": "Qual cidade foi a capital do Império Romano durante grande parte de sua história?",
+        "options": {
+          "A": "Cartago",
+          "B": "Roma",
+          "C": "Jerusalém",
+          "D": "Alexandria"
+        },
+        "explanation": "Roma foi o centro político do Império Romano durante grande parte de sua história, antes das mudanças do Império tardio."
+      },
+      "ht": {
+        "question": "Ki vil ki te kapital Anpi Women an pandan yon gwo pati nan istwa li?",
+        "options": {
+          "A": "Katay",
+          "B": "Wòm",
+          "C": "Jerizalèm",
+          "D": "Aleksandri"
+        },
+        "explanation": "Wòm te sant politik Anpi Women an pandan yon gwo pati nan istwa li, anvan chanjman nan dènye peryòd anpi a."
+      },
+      "de": {
+        "question": "Welche Stadt war während eines großen Teils ihrer Geschichte die Hauptstadt des Römischen Reiches?",
+        "options": {
+          "A": "Karthago",
+          "B": "Rom",
+          "C": "Jerusalem",
+          "D": "Alexandria"
+        },
+        "explanation": "Rom war während eines großen Teils der Geschichte das politische Zentrum des Römischen Reiches, bevor sich das späte Reich veränderte."
+      },
+      "ar": {
+        "question": "أي مدينة كانت عاصمة الإمبراطورية الرومانية خلال جزء كبير من تاريخها؟",
+        "options": {
+          "A": "قرطاج",
+          "B": "روما",
+          "C": "القدس",
+          "D": "الإسكندرية"
+        },
+        "explanation": "كانت روما المركز السياسي للإمبراطورية الرومانية خلال جزء كبير من تاريخها، قبل تغيرات أواخر الإمبراطورية."
+      },
+      "zh-CN": {
+        "question": "在罗马帝国历史的大部分时期，哪座城市是其首都？",
+        "options": {
+          "A": "迦太基",
+          "B": "罗马",
+          "C": "耶路撒冷",
+          "D": "亚历山大城"
+        },
+        "explanation": "在帝国晚期发生变化之前，罗马在其历史的大部分时期都是罗马帝国的政治中心。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-014",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quel peuple de l'Antiquité a largement diffusé un alphabet autour de la Méditerranée ?",
+        "options": {
+          "A": "Les Phéniciens",
+          "B": "Les Incas",
+          "C": "Les Mongols",
+          "D": "Les Mayas"
+        },
+        "explanation": "Les Phéniciens ont diffusé un alphabet consonantique qui a influencé plusieurs systèmes d'écriture méditerranéens."
+      },
+      "en": {
+        "question": "Which ancient people widely spread an alphabet around the Mediterranean?",
+        "options": {
+          "A": "The Phoenicians",
+          "B": "The Incas",
+          "C": "The Mongols",
+          "D": "The Maya"
+        },
+        "explanation": "The Phoenicians spread a consonantal alphabet that influenced several Mediterranean writing systems."
+      },
+      "es": {
+        "question": "¿Qué pueblo antiguo difundió ampliamente un alfabeto por el Mediterráneo?",
+        "options": {
+          "A": "Los fenicios",
+          "B": "Los incas",
+          "C": "Los mongoles",
+          "D": "Los mayas"
+        },
+        "explanation": "Los fenicios difundieron un alfabeto consonántico que influyó en varios sistemas de escritura mediterráneos."
+      },
+      "pt": {
+        "question": "Qual povo antigo difundiu amplamente um alfabeto ao redor do Mediterrâneo?",
+        "options": {
+          "A": "Os fenícios",
+          "B": "Os incas",
+          "C": "Os mongóis",
+          "D": "Os maias"
+        },
+        "explanation": "Os fenícios difundiram um alfabeto consonantal que influenciou vários sistemas de escrita do Mediterrâneo."
+      },
+      "ht": {
+        "question": "Ki pèp nan tan lontan ki te gaye yon alfabè anpil nan zòn Mediterane a?",
+        "options": {
+          "A": "Fenisyen yo",
+          "B": "Enka yo",
+          "C": "Mongòl yo",
+          "D": "Maya yo"
+        },
+        "explanation": "Fenisyen yo te gaye yon alfabè ki te gen sitou konsòn, e ki te enfliyanse plizyè sistèm ekriti nan Mediterane a."
+      },
+      "de": {
+        "question": "Welches antike Volk verbreitete ein Alphabet weit im Mittelmeerraum?",
+        "options": {
+          "A": "Die Phönizier",
+          "B": "Die Inka",
+          "C": "Die Mongolen",
+          "D": "Die Maya"
+        },
+        "explanation": "Die Phönizier verbreiteten ein Konsonantenalphabet, das mehrere Schriftsysteme im Mittelmeerraum beeinflusste."
+      },
+      "ar": {
+        "question": "أي شعب قديم نشر أبجدية على نطاق واسع حول البحر المتوسط؟",
+        "options": {
+          "A": "الفينيقيون",
+          "B": "الإنكا",
+          "C": "المغول",
+          "D": "المايا"
+        },
+        "explanation": "نشر الفينيقيون أبجدية صامتية أثرت في عدة أنظمة كتابة في منطقة البحر المتوسط."
+      },
+      "zh-CN": {
+        "question": "哪个古代民族在地中海地区广泛传播了一种字母文字？",
+        "options": {
+          "A": "腓尼基人",
+          "B": "印加人",
+          "C": "蒙古人",
+          "D": "玛雅人"
+        },
+        "explanation": "腓尼基人传播了一种辅音字母体系，并影响了地中海地区的多种文字系统。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-015",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "À quelle civilisation associe-t-on la construction de Machu Picchu ?",
+        "options": {
+          "A": "Aux Mayas",
+          "B": "Aux Incas",
+          "C": "Aux Olmèques",
+          "D": "Aux Aztèques"
+        },
+        "explanation": "Machu Picchu est un site emblématique construit par les Incas dans les Andes, dans l'actuel Pérou."
+      },
+      "en": {
+        "question": "Which civilization is associated with the construction of Machu Picchu?",
+        "options": {
+          "A": "The Maya",
+          "B": "The Incas",
+          "C": "The Olmecs",
+          "D": "The Aztecs"
+        },
+        "explanation": "Machu Picchu is an iconic Inca site in the Andes, in present-day Peru."
+      },
+      "es": {
+        "question": "¿Con qué civilización se relaciona la construcción de Machu Picchu?",
+        "options": {
+          "A": "Los mayas",
+          "B": "Los incas",
+          "C": "Los olmecas",
+          "D": "Los aztecas"
+        },
+        "explanation": "Machu Picchu es un emblemático sitio inca en los Andes, en el actual Perú."
+      },
+      "pt": {
+        "question": "A qual civilização se associa a construção de Machu Picchu?",
+        "options": {
+          "A": "Aos maias",
+          "B": "Aos incas",
+          "C": "Aos olmecas",
+          "D": "Aos astecas"
+        },
+        "explanation": "Machu Picchu é um local emblemático dos incas nos Andes, no atual Peru."
+      },
+      "ht": {
+        "question": "Ak ki sivilizasyon yo asosye konstriksyon Machu Picchu?",
+        "options": {
+          "A": "Maya yo",
+          "B": "Enka yo",
+          "C": "Olmek yo",
+          "D": "Aztèk yo"
+        },
+        "explanation": "Machu Picchu se yon sit enpòtan Enka nan mòn Andes yo, nan peyi Pewou jodi a."
+      },
+      "de": {
+        "question": "Mit welcher Zivilisation wird der Bau von Machu Picchu verbunden?",
+        "options": {
+          "A": "Mit den Maya",
+          "B": "Mit den Inka",
+          "C": "Mit den Olmeken",
+          "D": "Mit den Azteken"
+        },
+        "explanation": "Machu Picchu ist eine berühmte Inka-Stätte in den Anden im heutigen Peru."
+      },
+      "ar": {
+        "question": "بأي حضارة يرتبط بناء ماتشو بيتشو؟",
+        "options": {
+          "A": "المايا",
+          "B": "الإنكا",
+          "C": "الأولمك",
+          "D": "الأزتيك"
+        },
+        "explanation": "ماتشو بيتشو موقع بارز بناه الإنكا في جبال الأنديز، في بيرو الحالية."
+      },
+      "zh-CN": {
+        "question": "马丘比丘与哪个文明有关？",
+        "options": {
+          "A": "玛雅文明",
+          "B": "印加文明",
+          "C": "奥尔梅克文明",
+          "D": "阿兹特克文明"
+        },
+        "explanation": "马丘比丘是印加人在安第斯山脉建造的著名遗址，位于今天的秘鲁。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-016",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelle civilisation ancienne utilisait les hiéroglyphes égyptiens ?",
+        "options": {
+          "A": "La civilisation égyptienne",
+          "B": "La civilisation romaine",
+          "C": "La civilisation perse",
+          "D": "La civilisation chinoise"
+        },
+        "explanation": "Les hiéroglyphes étaient un système d'écriture utilisé dans l'Égypte ancienne."
+      },
+      "en": {
+        "question": "Which ancient civilization used Egyptian hieroglyphs?",
+        "options": {
+          "A": "The Egyptian civilization",
+          "B": "The Roman civilization",
+          "C": "The Persian civilization",
+          "D": "The Chinese civilization"
+        },
+        "explanation": "Hieroglyphs were a writing system used in ancient Egypt."
+      },
+      "es": {
+        "question": "¿Qué civilización antigua utilizaba los jeroglíficos egipcios?",
+        "options": {
+          "A": "La civilización egipcia",
+          "B": "La civilización romana",
+          "C": "La civilización persa",
+          "D": "La civilización china"
+        },
+        "explanation": "Los jeroglíficos eran un sistema de escritura utilizado en el antiguo Egipto."
+      },
+      "pt": {
+        "question": "Qual civilização antiga utilizava os hieróglifos egípcios?",
+        "options": {
+          "A": "A civilização egípcia",
+          "B": "A civilização romana",
+          "C": "A civilização persa",
+          "D": "A civilização chinesa"
+        },
+        "explanation": "Os hieróglifos eram um sistema de escrita utilizado no antigo Egito."
+      },
+      "ht": {
+        "question": "Ki ansyen sivilizasyon ki te itilize yeroglif ejipsyen yo?",
+        "options": {
+          "A": "Sivilizasyon ejipsyen an",
+          "B": "Sivilizasyon women an",
+          "C": "Sivilizasyon pès la",
+          "D": "Sivilizasyon chinwa a"
+        },
+        "explanation": "Yeroglif yo se te yon sistèm ekriti yo te itilize nan ansyen peyi Lejip."
+      },
+      "de": {
+        "question": "Welche antike Zivilisation verwendete ägyptische Hieroglyphen?",
+        "options": {
+          "A": "Die ägyptische Zivilisation",
+          "B": "Die römische Zivilisation",
+          "C": "Die persische Zivilisation",
+          "D": "Die chinesische Zivilisation"
+        },
+        "explanation": "Hieroglyphen waren ein Schriftsystem des alten Ägypten."
+      },
+      "ar": {
+        "question": "أي حضارة قديمة استخدمت الكتابة الهيروغليفية المصرية؟",
+        "options": {
+          "A": "الحضارة المصرية",
+          "B": "الحضارة الرومانية",
+          "C": "الحضارة الفارسية",
+          "D": "الحضارة الصينية"
+        },
+        "explanation": "كانت الهيروغليفية نظام كتابة مستخدماً في مصر القديمة."
+      },
+      "zh-CN": {
+        "question": "哪个古代文明使用埃及象形文字？",
+        "options": {
+          "A": "埃及文明",
+          "B": "罗马文明",
+          "C": "波斯文明",
+          "D": "中国文明"
+        },
+        "explanation": "象形文字是古埃及使用的一种书写系统。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-017",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Dans quelle ville antique se trouvait la célèbre grande bibliothèque fondée à l'époque hellénistique ?",
+        "options": {
+          "A": "Babylone",
+          "B": "Alexandrie",
+          "C": "Sparte",
+          "D": "Carthage"
+        },
+        "explanation": "La bibliothèque d'Alexandrie, en Égypte, était un important centre du savoir dans le monde hellénistique."
+      },
+      "en": {
+        "question": "In which ancient city was the famous Great Library founded during the Hellenistic period?",
+        "options": {
+          "A": "Babylon",
+          "B": "Alexandria",
+          "C": "Sparta",
+          "D": "Carthage"
+        },
+        "explanation": "The Library of Alexandria in Egypt was an important center of learning in the Hellenistic world."
+      },
+      "es": {
+        "question": "¿En qué ciudad antigua se encontraba la famosa Gran Biblioteca fundada durante el período helenístico?",
+        "options": {
+          "A": "Babilonia",
+          "B": "Alejandría",
+          "C": "Esparta",
+          "D": "Cartago"
+        },
+        "explanation": "La Biblioteca de Alejandría, en Egipto, fue un importante centro de conocimiento del mundo helenístico."
+      },
+      "pt": {
+        "question": "Em qual cidade antiga ficava a famosa Grande Biblioteca fundada no período helenístico?",
+        "options": {
+          "A": "Babilônia",
+          "B": "Alexandria",
+          "C": "Esparta",
+          "D": "Cartago"
+        },
+        "explanation": "A Biblioteca de Alexandria, no Egito, foi um importante centro de conhecimento do mundo helenístico."
+      },
+      "ht": {
+        "question": "Nan ki ansyen vil te gen pi popilè Gran Bibliyotèk la, ki te fonde nan epòk elenistik la?",
+        "options": {
+          "A": "Babilòn",
+          "B": "Aleksandri",
+          "C": "Spat",
+          "D": "Katay"
+        },
+        "explanation": "Bibliyotèk Aleksandri a, nan peyi Lejip, te yon gwo sant konesans nan mond elenistik la."
+      },
+      "de": {
+        "question": "In welcher antiken Stadt befand sich die berühmte Große Bibliothek aus der hellenistischen Zeit?",
+        "options": {
+          "A": "Babylon",
+          "B": "Alexandria",
+          "C": "Sparta",
+          "D": "Karthago"
+        },
+        "explanation": "Die Bibliothek von Alexandria in Ägypten war ein bedeutendes Wissenszentrum der hellenistischen Welt."
+      },
+      "ar": {
+        "question": "في أي مدينة قديمة وُجدت المكتبة الكبرى الشهيرة التي تأسست في العصر الهلنستي؟",
+        "options": {
+          "A": "بابل",
+          "B": "الإسكندرية",
+          "C": "إسبرطة",
+          "D": "قرطاج"
+        },
+        "explanation": "كانت مكتبة الإسكندرية في مصر مركزاً مهماً للمعرفة في العالم الهلنستي."
+      },
+      "zh-CN": {
+        "question": "希腊化时期建立的著名大图书馆位于哪座古城？",
+        "options": {
+          "A": "巴比伦",
+          "B": "亚历山大城",
+          "C": "斯巴达",
+          "D": "迦太基"
+        },
+        "explanation": "埃及亚历山大城的图书馆是希腊化世界重要的知识中心。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-018",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quel empire avait à Persépolis l'un de ses grands centres cérémoniels ?",
+        "options": {
+          "A": "L'Empire achéménide",
+          "B": "L'Empire romain",
+          "C": "L'Empire inca",
+          "D": "L'Empire carthaginois"
+        },
+        "explanation": "Persépolis était une capitale cérémonielle majeure de l'Empire achéménide de Perse."
+      },
+      "en": {
+        "question": "Which empire had one of its major ceremonial centers at Persepolis?",
+        "options": {
+          "A": "The Achaemenid Empire",
+          "B": "The Roman Empire",
+          "C": "The Inca Empire",
+          "D": "The Carthaginian Empire"
+        },
+        "explanation": "Persepolis was a major ceremonial capital of the Achaemenid Persian Empire."
+      },
+      "es": {
+        "question": "¿Qué imperio tenía en Persépolis uno de sus grandes centros ceremoniales?",
+        "options": {
+          "A": "El Imperio aqueménida",
+          "B": "El Imperio romano",
+          "C": "El Imperio inca",
+          "D": "El Imperio cartaginés"
+        },
+        "explanation": "Persépolis fue una importante capital ceremonial del Imperio persa aqueménida."
+      },
+      "pt": {
+        "question": "Qual império tinha em Persépolis um de seus grandes centros cerimoniais?",
+        "options": {
+          "A": "O Império Aquemênida",
+          "B": "O Império Romano",
+          "C": "O Império Inca",
+          "D": "O Império Cartaginês"
+        },
+        "explanation": "Persépolis foi uma importante capital cerimonial do Império Persa Aquemênida."
+      },
+      "ht": {
+        "question": "Ki anpi ki te gen youn nan gwo sant seremoni li yo nan Persepolis?",
+        "options": {
+          "A": "Anpi Achemenid la",
+          "B": "Anpi Women an",
+          "C": "Anpi Enka a",
+          "D": "Anpi Katagyen an"
+        },
+        "explanation": "Persepolis te yon gwo kapital seremoni nan Anpi Pès Achemenid la."
+      },
+      "de": {
+        "question": "Welches Reich hatte in Persepolis eines seiner großen zeremoniellen Zentren?",
+        "options": {
+          "A": "Das Achämenidenreich",
+          "B": "Das Römische Reich",
+          "C": "Das Inka-Reich",
+          "D": "Das Karthagische Reich"
+        },
+        "explanation": "Persepolis war eine bedeutende zeremonielle Hauptstadt des achämenidischen Perserreiches."
+      },
+      "ar": {
+        "question": "أي إمبراطورية كان لها أحد مراكزها الاحتفالية الكبرى في برسيبوليس؟",
+        "options": {
+          "A": "الإمبراطورية الأخمينية",
+          "B": "الإمبراطورية الرومانية",
+          "C": "إمبراطورية الإنكا",
+          "D": "الإمبراطورية القرطاجية"
+        },
+        "explanation": "كانت برسيبوليس عاصمة احتفالية مهمة للإمبراطورية الفارسية الأخمينية."
+      },
+      "zh-CN": {
+        "question": "哪个帝国在波斯波利斯设有重要的礼仪中心？",
+        "options": {
+          "A": "阿契美尼德帝国",
+          "B": "罗马帝国",
+          "C": "印加帝国",
+          "D": "迦太基帝国"
+        },
+        "explanation": "波斯波利斯是阿契美尼德波斯帝国重要的礼仪都城。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-019",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Sur quel support les Mésopotamiens écrivaient-ils souvent leurs textes ?",
+        "options": {
+          "A": "Des feuilles de papier",
+          "B": "Des tablettes d'argile",
+          "C": "Des parchemins de soie",
+          "D": "Des plaques de verre"
+        },
+        "explanation": "Les scribes mésopotamiens gravaient souvent les signes cunéiformes sur des tablettes d'argile."
+      },
+      "en": {
+        "question": "What material did Mesopotamians often use to write their texts on?",
+        "options": {
+          "A": "Sheets of paper",
+          "B": "Clay tablets",
+          "C": "Silk parchment",
+          "D": "Glass plates"
+        },
+        "explanation": "Mesopotamian scribes often pressed cuneiform signs into clay tablets."
+      },
+      "es": {
+        "question": "¿Qué material utilizaban a menudo los mesopotámicos para escribir sus textos?",
+        "options": {
+          "A": "Hojas de papel",
+          "B": "Tablillas de arcilla",
+          "C": "Pergaminos de seda",
+          "D": "Placas de vidrio"
+        },
+        "explanation": "Los escribas mesopotámicos solían grabar signos cuneiformes en tablillas de arcilla."
+      },
+      "pt": {
+        "question": "Em qual material os mesopotâmicos frequentemente escreviam seus textos?",
+        "options": {
+          "A": "Folhas de papel",
+          "B": "Tabuletas de argila",
+          "C": "Pergaminhos de seda",
+          "D": "Placas de vidro"
+        },
+        "explanation": "Os escribas mesopotâmicos frequentemente gravavam sinais cuneiformes em tabuletas de argila."
+      },
+      "ht": {
+        "question": "Sou ki materyèl moun Mezopotami yo te konn ekri tèks yo souvan?",
+        "options": {
+          "A": "Fèy papye",
+          "B": "Tablèt ajil",
+          "C": "Parchemen swa",
+          "D": "Plak vè"
+        },
+        "explanation": "Moun ki te konn ekri nan Mezopotami yo te souvan grave siy kuneifòm sou tablèt ajil."
+      },
+      "de": {
+        "question": "Auf welchem Material schrieben die Menschen in Mesopotamien häufig ihre Texte?",
+        "options": {
+          "A": "Auf Papierblättern",
+          "B": "Auf Tontafeln",
+          "C": "Auf Seidenpergament",
+          "D": "Auf Glasplatten"
+        },
+        "explanation": "Mesopotamische Schreiber ritzten Keilschriftzeichen häufig in Tontafeln."
+      },
+      "ar": {
+        "question": "على أي مادة كان سكان بلاد الرافدين يكتبون نصوصهم غالباً؟",
+        "options": {
+          "A": "أوراق الورق",
+          "B": "ألواح طينية",
+          "C": "رقائق حريرية",
+          "D": "ألواح زجاجية"
+        },
+        "explanation": "كان الكتبة في بلاد الرافدين ينقشون العلامات المسمارية غالباً على ألواح طينية."
+      },
+      "zh-CN": {
+        "question": "美索不达米亚人常把文字写在什么材料上？",
+        "options": {
+          "A": "纸张",
+          "B": "泥板",
+          "C": "丝绸羊皮纸",
+          "D": "玻璃板"
+        },
+        "explanation": "美索不达米亚的书记员常把楔形文字刻在泥板上。"
+      }
+    }
+  },
+  {
+    "id": "HIS-001-020",
+    "categoryId": "history",
+    "seriesId": "HIS-001",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Pourquoi les premiers grands établissements humains se sont-ils souvent développés près des fleuves ?",
+        "options": {
+          "A": "Pour faciliter l'accès à l'eau, l'agriculture et les échanges",
+          "B": "Pour éviter toute forme de commerce",
+          "C": "Parce que les fleuves empêchaient les cultures",
+          "D": "Uniquement pour construire des ports maritimes"
+        },
+        "explanation": "Les fleuves fournissaient de l'eau, des terres fertiles et des voies de transport utiles à la vie et aux échanges."
+      },
+      "en": {
+        "question": "Why did many early large settlements develop near rivers?",
+        "options": {
+          "A": "To access water, farming land, and trade routes",
+          "B": "To prevent all forms of trade",
+          "C": "Because rivers stopped crops from growing",
+          "D": "Only to build seaports"
+        },
+        "explanation": "Rivers provided water, fertile land, and transport routes that supported communities and trade."
+      },
+      "es": {
+        "question": "¿Por qué muchos de los primeros grandes asentamientos humanos se desarrollaron cerca de los ríos?",
+        "options": {
+          "A": "Para acceder al agua, a tierras agrícolas y a rutas comerciales",
+          "B": "Para impedir todo tipo de comercio",
+          "C": "Porque los ríos impedían cultivar",
+          "D": "Únicamente para construir puertos marítimos"
+        },
+        "explanation": "Los ríos proporcionaban agua, tierras fértiles y vías de transporte que favorecían la vida y el comercio."
+      },
+      "pt": {
+        "question": "Por que muitos dos primeiros grandes assentamentos humanos se desenvolveram perto dos rios?",
+        "options": {
+          "A": "Para ter acesso à água, a terras agrícolas e a rotas comerciais",
+          "B": "Para impedir todas as formas de comércio",
+          "C": "Porque os rios impediam o cultivo",
+          "D": "Somente para construir portos marítimos"
+        },
+        "explanation": "Os rios forneciam água, terras férteis e vias de transporte que favoreciam a vida e o comércio."
+      },
+      "ht": {
+        "question": "Poukisa anpil nan premye gwo kominote moun yo te devlope toupre rivyè?",
+        "options": {
+          "A": "Pou jwenn dlo, tè pou fè jaden ak wout pou fè komès",
+          "B": "Pou anpeche tout kalite komès",
+          "C": "Paske rivyè yo te anpeche rekòt pouse",
+          "D": "Sèlman pou konstwi pò maritim"
+        },
+        "explanation": "Rivyè yo te bay dlo, tè fètil ak chemen transpò ki te ede kominote yo viv epi fè komès."
+      },
+      "de": {
+        "question": "Warum entstanden viele frühe große Siedlungen in der Nähe von Flüssen?",
+        "options": {
+          "A": "Wegen des Zugangs zu Wasser, Ackerland und Handelswegen",
+          "B": "Um jede Art von Handel zu verhindern",
+          "C": "Weil Flüsse den Anbau verhinderten",
+          "D": "Nur um Seehäfen zu bauen"
+        },
+        "explanation": "Flüsse boten Wasser, fruchtbares Land und Verkehrswege, die Gemeinschaften und Handel unterstützten."
+      },
+      "ar": {
+        "question": "لماذا نشأت كثير من المستوطنات البشرية الكبيرة الأولى بالقرب من الأنهار؟",
+        "options": {
+          "A": "للوصول إلى المياه والأراضي الزراعية وطرق التجارة",
+          "B": "لمنع جميع أشكال التجارة",
+          "C": "لأن الأنهار كانت تمنع الزراعة",
+          "D": "لبناء الموانئ البحرية فقط"
+        },
+        "explanation": "وفرت الأنهار المياه والأراضي الخصبة وطرق النقل التي دعمت الحياة والتجارة."
+      },
+      "zh-CN": {
+        "question": "为什么许多早期大型人类聚居地会在河流附近发展？",
+        "options": {
+          "A": "为了获得水源、耕地和贸易通道",
+          "B": "为了阻止一切贸易",
+          "C": "因为河流会阻止农作物生长",
+          "D": "只是为了建造海港"
+        },
+        "explanation": "河流提供水源、肥沃土地和交通路线，支持了社区生活与贸易。"
+      }
+    }
+  }
+]
