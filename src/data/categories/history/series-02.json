@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "HIS-002-001",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelle plante servait à fabriquer le papyrus en Égypte ancienne ?",
+        "options": {
+          "A": "Le papyrus",
+          "B": "Le bambou",
+          "C": "Le coton",
+          "D": "Le lin"
+        },
+        "explanation": "Le papyrus était fabriqué avec la tige d'une plante des zones humides du Nil."
+      },
+      "en": {
+        "question": "Which plant was used to make papyrus in ancient Egypt?",
+        "options": {
+          "A": "Papyrus plant",
+          "B": "Bamboo",
+          "C": "Cotton",
+          "D": "Flax"
+        },
+        "explanation": "Papyrus was made from the stem of a plant found in wet areas around the Nile."
+      },
+      "es": {
+        "question": "¿Qué planta se usaba para fabricar papiro en el antiguo Egipto?",
+        "options": {
+          "A": "La planta del papiro",
+          "B": "El bambú",
+          "C": "El algodón",
+          "D": "El lino"
+        },
+        "explanation": "El papiro se fabricaba con el tallo de una planta de las zonas húmedas del Nilo."
+      },
+      "pt": {
+        "question": "Qual planta era usada para fabricar papiro no Egito antigo?",
+        "options": {
+          "A": "A planta do papiro",
+          "B": "O bambu",
+          "C": "O algodão",
+          "D": "O linho"
+        },
+        "explanation": "O papiro era feito com o caule de uma planta das áreas úmidas do Nilo."
+      },
+      "ht": {
+        "question": "Ki plant yo te itilize pou fè papiris nan ansyen peyi Lejip?",
+        "options": {
+          "A": "Plant papiris la",
+          "B": "Banbou",
+          "C": "Koton",
+          "D": "Len"
+        },
+        "explanation": "Yo te fè papiris ak tij yon plant ki te grandi nan zòn mouye bò Nil la."
+      },
+      "de": {
+        "question": "Welche Pflanze wurde im alten Ägypten zur Herstellung von Papyrus verwendet?",
+        "options": {
+          "A": "Die Papyruspflanze",
+          "B": "Bambus",
+          "C": "Baumwolle",
+          "D": "Flachs"
+        },
+        "explanation": "Papyrus wurde aus dem Stängel einer Pflanze aus den Feuchtgebieten am Nil hergestellt."
+      },
+      "ar": {
+        "question": "أي نبات استُخدم لصناعة البردي في مصر القديمة؟",
+        "options": {
+          "A": "نبات البردي",
+          "B": "الخيزران",
+          "C": "القطن",
+          "D": "الكتان"
+        },
+        "explanation": "صُنع البردي من سيقان نبات كان ينمو في المناطق الرطبة حول النيل."
+      },
+      "zh-CN": {
+        "question": "古埃及人用哪种植物制作纸莎草纸？",
+        "options": {
+          "A": "纸莎草",
+          "B": "竹子",
+          "C": "棉花",
+          "D": "亚麻"
+        },
+        "explanation": "纸莎草纸由一种生长在尼罗河湿地的植物茎制成。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-002",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "À quelle civilisation associe-t-on Cai Lun et l'amélioration du papier vers 105 apr. J.-C. ?",
+        "options": {
+          "A": "Rome antique",
+          "B": "La Chine des Han",
+          "C": "La Grèce antique",
+          "D": "L'Égypte ancienne"
+        },
+        "explanation": "Cai Lun, fonctionnaire des Han, est associé à une importante amélioration de la fabrication du papier."
+      },
+      "en": {
+        "question": "Which civilization is associated with Cai Lun's improvement of papermaking around 105 CE?",
+        "options": {
+          "A": "Ancient Rome",
+          "B": "Han China",
+          "C": "Ancient Greece",
+          "D": "Ancient Egypt"
+        },
+        "explanation": "Han official Cai Lun is associated with an important improvement in papermaking."
+      },
+      "es": {
+        "question": "¿Con qué civilización se relaciona la mejora del papel de Cai Lun hacia el año 105 d. C.?",
+        "options": {
+          "A": "Roma antigua",
+          "B": "La China Han",
+          "C": "La antigua Grecia",
+          "D": "El antiguo Egipto"
+        },
+        "explanation": "Cai Lun, funcionario Han, se relaciona con una importante mejora de la fabricación del papel."
+      },
+      "pt": {
+        "question": "A qual civilização se associa a melhoria do papel feita por Cai Lun por volta de 105 d.C.?",
+        "options": {
+          "A": "Roma antiga",
+          "B": "A China Han",
+          "C": "A Grécia antiga",
+          "D": "O Egito antigo"
+        },
+        "explanation": "Cai Lun, funcionário Han, é associado a uma importante melhoria na fabricação do papel."
+      },
+      "ht": {
+        "question": "Ak ki sivilizasyon yo asosye amelyorasyon papye Cai Lun te fè anviwon ane 105 la?",
+        "options": {
+          "A": "Wòm antik",
+          "B": "Lachin nan dinasti Han",
+          "C": "Grès antik",
+          "D": "Ansyen peyi Lejip"
+        },
+        "explanation": "Cai Lun, yon fonksyonè Han, asosye ak yon gwo amelyorasyon nan fabrikasyon papye."
+      },
+      "de": {
+        "question": "Mit welcher Kultur wird Cai Luns Verbesserung der Papierherstellung um 105 n. Chr. verbunden?",
+        "options": {
+          "A": "Das antike Rom",
+          "B": "Das China der Han-Dynastie",
+          "C": "Das antike Griechenland",
+          "D": "Das alte Ägypten"
+        },
+        "explanation": "Der Han-Beamte Cai Lun wird mit einer wichtigen Verbesserung der Papierherstellung verbunden."
+      },
+      "ar": {
+        "question": "بأي حضارة يرتبط تحسين تساي لون لصناعة الورق نحو عام 105 ميلادي؟",
+        "options": {
+          "A": "روما القديمة",
+          "B": "الصين في عهد أسرة هان",
+          "C": "اليونان القديمة",
+          "D": "مصر القديمة"
+        },
+        "explanation": "يرتبط المسؤول في أسرة هان تساي لون بتحسين مهم في صناعة الورق."
+      },
+      "zh-CN": {
+        "question": "蔡伦在公元约105年改进造纸术与哪一文明有关？",
+        "options": {
+          "A": "古罗马",
+          "B": "汉朝中国",
+          "C": "古希腊",
+          "D": "古埃及"
+        },
+        "explanation": "汉朝官员蔡伦通常与造纸工艺的一项重要改进相关联。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-003",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "Comment un cadran solaire indique-t-il l'heure ?",
+        "options": {
+          "A": "Avec le vent",
+          "B": "Avec les étoiles seules",
+          "C": "Avec l'ombre du Soleil",
+          "D": "Avec du sable"
+        },
+        "explanation": "Le cadran solaire utilise le déplacement de l'ombre projetée par le Soleil."
+      },
+      "en": {
+        "question": "How does a sundial show the time?",
+        "options": {
+          "A": "With the wind",
+          "B": "With stars alone",
+          "C": "With the Sun's shadow",
+          "D": "With sand"
+        },
+        "explanation": "A sundial uses the changing position of a shadow cast by the Sun."
+      },
+      "es": {
+        "question": "¿Cómo indica la hora un reloj de sol?",
+        "options": {
+          "A": "Con el viento",
+          "B": "Solo con las estrellas",
+          "C": "Con la sombra del Sol",
+          "D": "Con arena"
+        },
+        "explanation": "El reloj de sol utiliza el movimiento de la sombra proyectada por el Sol."
+      },
+      "pt": {
+        "question": "Como um relógio de sol indica as horas?",
+        "options": {
+          "A": "Com o vento",
+          "B": "Apenas com estrelas",
+          "C": "Com a sombra do Sol",
+          "D": "Com areia"
+        },
+        "explanation": "O relógio de sol usa a mudança da sombra projetada pelo Sol."
+      },
+      "ht": {
+        "question": "Ki jan yon revèy solèy montre lè a?",
+        "options": {
+          "A": "Avèk van an",
+          "B": "Avèk zetwal sèlman",
+          "C": "Avèk lonbraj Solèy la",
+          "D": "Avèk sab"
+        },
+        "explanation": "Revèy solèy la sèvi ak chanjman lonbraj Solèy la."
+      },
+      "de": {
+        "question": "Wie zeigt eine Sonnenuhr die Zeit an?",
+        "options": {
+          "A": "Mit dem Wind",
+          "B": "Nur mit Sternen",
+          "C": "Mit dem Schatten der Sonne",
+          "D": "Mit Sand"
+        },
+        "explanation": "Eine Sonnenuhr nutzt die wechselnde Position des Sonnenschattens."
+      },
+      "ar": {
+        "question": "كيف تحدد الساعة الشمسية الوقت؟",
+        "options": {
+          "A": "بالرياح",
+          "B": "بالنجوم فقط",
+          "C": "بظل الشمس",
+          "D": "بالرمل"
+        },
+        "explanation": "تستخدم الساعة الشمسية تغير موضع الظل الذي تسقطه الشمس."
+      },
+      "zh-CN": {
+        "question": "日晷如何显示时间？",
+        "options": {
+          "A": "借助风",
+          "B": "只靠星星",
+          "C": "利用太阳的影子",
+          "D": "借助沙子"
+        },
+        "explanation": "日晷利用太阳投下的影子位置变化来显示时间。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-004",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "D",
+    "translations": {
+      "fr": {
+        "question": "Quel liquide s'écoule dans une clepsydre ?",
+        "options": {
+          "A": "L'huile",
+          "B": "Le sable",
+          "C": "L'air",
+          "D": "L'eau"
+        },
+        "explanation": "Une clepsydre mesure le temps grâce à l'écoulement de l'eau."
+      },
+      "en": {
+        "question": "What liquid flows in a clepsydra, or water clock?",
+        "options": {
+          "A": "Oil",
+          "B": "Sand",
+          "C": "Air",
+          "D": "Water"
+        },
+        "explanation": "A clepsydra measures time through the flow of water."
+      },
+      "es": {
+        "question": "¿Qué líquido fluye en una clepsidra o reloj de agua?",
+        "options": {
+          "A": "Aceite",
+          "B": "Arena",
+          "C": "Aire",
+          "D": "Agua"
+        },
+        "explanation": "Una clepsidra mide el tiempo mediante el flujo del agua."
+      },
+      "pt": {
+        "question": "Que líquido flui em uma clepsidra ou relógio de água?",
+        "options": {
+          "A": "Óleo",
+          "B": "Areia",
+          "C": "Ar",
+          "D": "Água"
+        },
+        "explanation": "A clepsidra mede o tempo por meio do fluxo da água."
+      },
+      "ht": {
+        "question": "Ki likid ki koule nan yon klepsid oswa revèy dlo?",
+        "options": {
+          "A": "Lwil",
+          "B": "Sab",
+          "C": "Lè",
+          "D": "Dlo"
+        },
+        "explanation": "Klepsid la mezire tan grasa dlo k ap koule."
+      },
+      "de": {
+        "question": "Welche Flüssigkeit fließt in einer Klepsydra oder Wasseruhr?",
+        "options": {
+          "A": "Öl",
+          "B": "Sand",
+          "C": "Luft",
+          "D": "Wasser"
+        },
+        "explanation": "Eine Klepsydra misst die Zeit durch den Wasserfluss."
+      },
+      "ar": {
+        "question": "ما السائل الذي يتدفق في الساعة المائية؟",
+        "options": {
+          "A": "الزيت",
+          "B": "الرمل",
+          "C": "الهواء",
+          "D": "الماء"
+        },
+        "explanation": "تقيس الساعة المائية الوقت من خلال تدفق الماء."
+      },
+      "zh-CN": {
+        "question": "水钟中流动的是什么液体？",
+        "options": {
+          "A": "油",
+          "B": "沙子",
+          "C": "空气",
+          "D": "水"
+        },
+        "explanation": "水钟通过水的流动来测量时间。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-005",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "À quoi servait principalement le mécanisme d'Anticythère ?",
+        "options": {
+          "A": "Aux calculs astronomiques",
+          "B": "À fabriquer du papier",
+          "C": "À pomper l'eau",
+          "D": "À mesurer la profondeur"
+        },
+        "explanation": "Ce mécanisme à engrenages permettait de calculer et représenter des cycles astronomiques."
+      },
+      "en": {
+        "question": "What was the Antikythera mechanism mainly used for?",
+        "options": {
+          "A": "Astronomical calculations",
+          "B": "Making paper",
+          "C": "Pumping water",
+          "D": "Measuring depth"
+        },
+        "explanation": "This geared device could calculate and display astronomical cycles."
+      },
+      "es": {
+        "question": "¿Para qué servía principalmente el mecanismo de Anticitera?",
+        "options": {
+          "A": "Para cálculos astronómicos",
+          "B": "Para fabricar papel",
+          "C": "Para bombear agua",
+          "D": "Para medir profundidad"
+        },
+        "explanation": "Este mecanismo de engranajes podía calcular y representar ciclos astronómicos."
+      },
+      "pt": {
+        "question": "Para que servia principalmente o mecanismo de Anticítera?",
+        "options": {
+          "A": "Para cálculos astronômicos",
+          "B": "Para fabricar papel",
+          "C": "Para bombear água",
+          "D": "Para medir profundidade"
+        },
+        "explanation": "Esse aparelho com engrenagens calculava e representava ciclos astronômicos."
+      },
+      "ht": {
+        "question": "Pou ki sa mekanis Antikythera a te sèvi sitou?",
+        "options": {
+          "A": "Pou kalkil astwonomik",
+          "B": "Pou fè papye",
+          "C": "Pou ponpe dlo",
+          "D": "Pou mezire pwofondè"
+        },
+        "explanation": "Aparèy sa a ki gen wou dantle te sèvi pou kalkile sik astwonomik."
+      },
+      "de": {
+        "question": "Wozu diente hauptsächlich der Mechanismus von Antikythera?",
+        "options": {
+          "A": "Für astronomische Berechnungen",
+          "B": "Zur Papierherstellung",
+          "C": "Zum Wasserpumpen",
+          "D": "Zum Tiefenmessen"
+        },
+        "explanation": "Das Gerät mit Zahnrädern konnte astronomische Zyklen berechnen und darstellen."
+      },
+      "ar": {
+        "question": "ما الاستخدام الأساسي لآلية أنتيكيثيرا؟",
+        "options": {
+          "A": "الحسابات الفلكية",
+          "B": "صناعة الورق",
+          "C": "ضخ المياه",
+          "D": "قياس الأعماق"
+        },
+        "explanation": "كان هذا الجهاز ذو التروس يحسب الدورات الفلكية ويعرضها."
+      },
+      "zh-CN": {
+        "question": "安提基特拉机械主要用于什么？",
+        "options": {
+          "A": "天文计算",
+          "B": "造纸",
+          "C": "抽水",
+          "D": "测量深度"
+        },
+        "explanation": "这种齿轮装置能够计算并显示天文周期。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-006",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quelle invention attribuée à Archimède permet de faire monter l'eau avec une vis tournante ?",
+        "options": {
+          "A": "Le cadran solaire",
+          "B": "La vis d'Archimède",
+          "C": "Le métier à tisser",
+          "D": "La boussole"
+        },
+        "explanation": "La vis d'Archimède déplace l'eau vers un niveau plus élevé."
+      },
+      "en": {
+        "question": "Which invention attributed to Archimedes raises water with a rotating screw?",
+        "options": {
+          "A": "The sundial",
+          "B": "The Archimedes screw",
+          "C": "The loom",
+          "D": "The compass"
+        },
+        "explanation": "The Archimedes screw moves water to a higher level."
+      },
+      "es": {
+        "question": "¿Qué invento atribuido a Arquímedes eleva agua mediante un tornillo giratorio?",
+        "options": {
+          "A": "El reloj de sol",
+          "B": "El tornillo de Arquímedes",
+          "C": "El telar",
+          "D": "La brújula"
+        },
+        "explanation": "El tornillo de Arquímedes transporta agua a un nivel más alto."
+      },
+      "pt": {
+        "question": "Qual invenção atribuída a Arquimedes eleva água por meio de um parafuso giratório?",
+        "options": {
+          "A": "O relógio de sol",
+          "B": "O parafuso de Arquimedes",
+          "C": "O tear",
+          "D": "A bússola"
+        },
+        "explanation": "O parafuso de Arquimedes transporta água para um nível mais alto."
+      },
+      "ht": {
+        "question": "Ki envansyon yo atribye ak Achimèd ki fè dlo monte ak yon vis k ap vire?",
+        "options": {
+          "A": "Revèy solèy la",
+          "B": "Vis Achimèd la",
+          "C": "Twalye a",
+          "D": "Bousòl la"
+        },
+        "explanation": "Vis Achimèd la pèmèt deplase dlo pou mennen l pi wo."
+      },
+      "de": {
+        "question": "Welche Archimedes zugeschriebene Erfindung hebt Wasser mit einer drehbaren Schraube?",
+        "options": {
+          "A": "Die Sonnenuhr",
+          "B": "Die archimedische Schraube",
+          "C": "Der Webstuhl",
+          "D": "Der Kompass"
+        },
+        "explanation": "Die archimedische Schraube transportiert Wasser auf ein höheres Niveau."
+      },
+      "ar": {
+        "question": "أي اختراع يُنسب إلى أرخميدس ويرفع الماء بواسطة لولب دوّار؟",
+        "options": {
+          "A": "الساعة الشمسية",
+          "B": "لولب أرخميدس",
+          "C": "النول",
+          "D": "البوصلة"
+        },
+        "explanation": "ينقل لولب أرخميدس الماء إلى مستوى أعلى."
+      },
+      "zh-CN": {
+        "question": "哪种归于阿基米德的发明利用旋转螺旋提升水？",
+        "options": {
+          "A": "日晷",
+          "B": "阿基米德螺旋",
+          "C": "织布机",
+          "D": "指南针"
+        },
+        "explanation": "阿基米德螺旋能把水输送到较高位置。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-007",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "De quels métaux le bronze est-il principalement composé ?",
+        "options": {
+          "A": "Fer et carbone",
+          "B": "Or et argent",
+          "C": "Cuivre et étain",
+          "D": "Plomb et zinc"
+        },
+        "explanation": "Le bronze est un alliage composé principalement de cuivre et d'étain."
+      },
+      "en": {
+        "question": "Which metals are the main components of bronze?",
+        "options": {
+          "A": "Iron and carbon",
+          "B": "Gold and silver",
+          "C": "Copper and tin",
+          "D": "Lead and zinc"
+        },
+        "explanation": "Bronze is an alloy made mainly of copper and tin."
+      },
+      "es": {
+        "question": "¿Qué metales componen principalmente el bronce?",
+        "options": {
+          "A": "Hierro y carbono",
+          "B": "Oro y plata",
+          "C": "Cobre y estaño",
+          "D": "Plomo y zinc"
+        },
+        "explanation": "El bronce es una aleación compuesta principalmente de cobre y estaño."
+      },
+      "pt": {
+        "question": "Quais metais compõem principalmente o bronze?",
+        "options": {
+          "A": "Ferro e carbono",
+          "B": "Ouro e prata",
+          "C": "Cobre e estanho",
+          "D": "Chumbo e zinco"
+        },
+        "explanation": "O bronze é uma liga composta principalmente de cobre e estanho."
+      },
+      "ht": {
+        "question": "Ki metal ki fòme bwonz sitou?",
+        "options": {
+          "A": "Fè ak kabòn",
+          "B": "Lò ak ajan",
+          "C": "Kuiv ak eten",
+          "D": "Plon ak zenk"
+        },
+        "explanation": "Bwonz se yon alyaj ki fèt sitou ak kuiv ak eten."
+      },
+      "de": {
+        "question": "Aus welchen Metallen besteht Bronze hauptsächlich?",
+        "options": {
+          "A": "Eisen und Kohlenstoff",
+          "B": "Gold und Silber",
+          "C": "Kupfer und Zinn",
+          "D": "Blei und Zink"
+        },
+        "explanation": "Bronze ist eine Legierung aus hauptsächlich Kupfer und Zinn."
+      },
+      "ar": {
+        "question": "من أي معدنين يتكوّن البرونز أساسًا؟",
+        "options": {
+          "A": "الحديد والكربون",
+          "B": "الذهب والفضة",
+          "C": "النحاس والقصدير",
+          "D": "الرصاص والزنك"
+        },
+        "explanation": "البرونز سبيكة تتكوّن أساسًا من النحاس والقصدير."
+      },
+      "zh-CN": {
+        "question": "青铜主要由哪两种金属组成？",
+        "options": {
+          "A": "铁和碳",
+          "B": "金和银",
+          "C": "铜和锡",
+          "D": "铅和锌"
+        },
+        "explanation": "青铜是一种主要由铜和锡组成的合金。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-008",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "D",
+    "translations": {
+      "fr": {
+        "question": "Quel royaume d'Anatolie occidentale est associé à certaines des premières monnaies métalliques standardisées ?",
+        "options": {
+          "A": "La Macédoine",
+          "B": "Juda",
+          "C": "L'Assyrie",
+          "D": "La Lydie"
+        },
+        "explanation": "La Lydie est connue pour ses premières pièces standardisées, notamment en électrum."
+      },
+      "en": {
+        "question": "Which kingdom in western Anatolia is associated with some of the earliest standardized metal coins?",
+        "options": {
+          "A": "Macedonia",
+          "B": "Judah",
+          "C": "Assyria",
+          "D": "Lydia"
+        },
+        "explanation": "Lydia is known for early standardized coins, including electrum coins."
+      },
+      "es": {
+        "question": "¿Qué reino de Anatolia occidental se relaciona con algunas de las primeras monedas metálicas estandarizadas?",
+        "options": {
+          "A": "Macedonia",
+          "B": "Judá",
+          "C": "Asiria",
+          "D": "Lidia"
+        },
+        "explanation": "Lidia es conocida por sus primeras monedas estandarizadas, incluidas las de electro."
+      },
+      "pt": {
+        "question": "Qual reino da Anatólia ocidental está associado a algumas das primeiras moedas metálicas padronizadas?",
+        "options": {
+          "A": "Macedônia",
+          "B": "Judá",
+          "C": "Assíria",
+          "D": "Lídia"
+        },
+        "explanation": "A Lídia é conhecida por moedas padronizadas antigas, inclusive as de eletro."
+      },
+      "ht": {
+        "question": "Ki wayòm nan lwès Anatoli ki asosye ak kèk nan premye pyès monnen metal estandadize yo?",
+        "options": {
+          "A": "Masedwàn",
+          "B": "Jida",
+          "C": "Asiri",
+          "D": "Lidi"
+        },
+        "explanation": "Lidi te konnen pou pyès monnen estandadize bonè, tankou pyès an elektwòm."
+      },
+      "de": {
+        "question": "Welches Königreich in Westanatolien wird mit frühen standardisierten Metallmünzen verbunden?",
+        "options": {
+          "A": "Makedonien",
+          "B": "Juda",
+          "C": "Assyrien",
+          "D": "Lydien"
+        },
+        "explanation": "Lydien ist für frühe standardisierte Münzen bekannt, darunter Elektronmünzen."
+      },
+      "ar": {
+        "question": "أي مملكة في غرب الأناضول ارتبطت ببعض أقدم العملات المعدنية المعيارية؟",
+        "options": {
+          "A": "مقدونيا",
+          "B": "يهوذا",
+          "C": "آشور",
+          "D": "ليديا"
+        },
+        "explanation": "اشتهرت ليديا بعملات معيارية مبكرة، ومنها عملات الإلكتروم."
+      },
+      "zh-CN": {
+        "question": "安纳托利亚西部哪个王国与早期标准化金属钱币有关？",
+        "options": {
+          "A": "马其顿",
+          "B": "犹大",
+          "C": "亚述",
+          "D": "吕底亚"
+        },
+        "explanation": "吕底亚以早期标准化钱币闻名，其中包括琥珀金钱币。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-009",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelle matière de base servait à fabriquer le verre ancien ?",
+        "options": {
+          "A": "Du sable riche en silice",
+          "B": "De la cire",
+          "C": "Du bois moulu",
+          "D": "Du charbon seul"
+        },
+        "explanation": "Le verre ancien était fabriqué en chauffant un mélange contenant du sable riche en silice."
+      },
+      "en": {
+        "question": "Which basic material was used to make ancient glass?",
+        "options": {
+          "A": "Silica-rich sand",
+          "B": "Wax",
+          "C": "Ground wood",
+          "D": "Charcoal alone"
+        },
+        "explanation": "Ancient glass was made by heating a mixture containing silica-rich sand."
+      },
+      "es": {
+        "question": "¿Qué material básico se utilizaba para fabricar vidrio antiguo?",
+        "options": {
+          "A": "Arena rica en sílice",
+          "B": "Cera",
+          "C": "Madera molida",
+          "D": "Solo carbón"
+        },
+        "explanation": "El vidrio antiguo se fabricaba calentando una mezcla con arena rica en sílice."
+      },
+      "pt": {
+        "question": "Qual matéria básica era usada para fabricar vidro antigo?",
+        "options": {
+          "A": "Areia rica em sílica",
+          "B": "Cera",
+          "C": "Madeira moída",
+          "D": "Apenas carvão"
+        },
+        "explanation": "O vidro antigo era feito aquecendo uma mistura com areia rica em sílica."
+      },
+      "ht": {
+        "question": "Ki matyè debaz yo te itilize pou fè vè nan tan lontan?",
+        "options": {
+          "A": "Sab ki rich an silis",
+          "B": "Sir",
+          "C": "Bwa moulen",
+          "D": "Chabon sèlman"
+        },
+        "explanation": "Yo te fè vè lè yo chofe yon melanj ki gen sab ki rich an silis."
+      },
+      "de": {
+        "question": "Welcher Grundstoff wurde zur Herstellung von antikem Glas verwendet?",
+        "options": {
+          "A": "Siliziumdioxidreicher Sand",
+          "B": "Wachs",
+          "C": "Gemahlenes Holz",
+          "D": "Nur Holzkohle"
+        },
+        "explanation": "Antikes Glas entstand durch Erhitzen einer Mischung mit siliziumdioxidreichem Sand."
+      },
+      "ar": {
+        "question": "ما المادة الأساسية التي استُخدمت لصناعة الزجاج القديم؟",
+        "options": {
+          "A": "الرمل الغني بالسيليكا",
+          "B": "الشمع",
+          "C": "الخشب المطحون",
+          "D": "الفحم وحده"
+        },
+        "explanation": "صُنع الزجاج القديم بتسخين خليط يحتوي على رمل غني بالسيليكا."
+      },
+      "zh-CN": {
+        "question": "古代玻璃制作使用哪种基础材料？",
+        "options": {
+          "A": "富含二氧化硅的沙子",
+          "B": "蜡",
+          "C": "磨碎的木材",
+          "D": "单独的木炭"
+        },
+        "explanation": "古代玻璃通过加热含有富硅沙子的混合物制成。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-010",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quel appareil ancien élevait l'eau grâce à un long levier et un contrepoids ?",
+        "options": {
+          "A": "La clepsydre",
+          "B": "Le chadouf",
+          "C": "Le cadran solaire",
+          "D": "La balance"
+        },
+        "explanation": "Le chadouf utilise un levier, un seau et un contrepoids pour puiser l'eau."
+      },
+      "en": {
+        "question": "Which ancient device lifted water using a long lever and a counterweight?",
+        "options": {
+          "A": "The water clock",
+          "B": "The shaduf",
+          "C": "The sundial",
+          "D": "The balance"
+        },
+        "explanation": "A shaduf uses a lever, bucket, and counterweight to raise water."
+      },
+      "es": {
+        "question": "¿Qué aparato antiguo elevaba agua mediante una palanca larga y un contrapeso?",
+        "options": {
+          "A": "La clepsidra",
+          "B": "El shaduf",
+          "C": "El reloj de sol",
+          "D": "La balanza"
+        },
+        "explanation": "El shaduf usa una palanca, un cubo y un contrapeso para elevar agua."
+      },
+      "pt": {
+        "question": "Qual aparelho antigo elevava água com uma alavanca longa e um contrapeso?",
+        "options": {
+          "A": "A clepsidra",
+          "B": "O shaduf",
+          "C": "O relógio de sol",
+          "D": "A balança"
+        },
+        "explanation": "O shaduf usa uma alavanca, um balde e um contrapeso para elevar água."
+      },
+      "ht": {
+        "question": "Ki ansyen aparèy ki te leve dlo ak yon levye long ak yon pwa?",
+        "options": {
+          "A": "Klepsid la",
+          "B": "Chadouf la",
+          "C": "Revèy solèy la",
+          "D": "Balans lan"
+        },
+        "explanation": "Chadouf la sèvi ak yon levye, yon bokit ak yon pwa pou leve dlo."
+      },
+      "de": {
+        "question": "Welches antike Gerät hob Wasser mit einem langen Hebel und Gegengewicht?",
+        "options": {
+          "A": "Die Wasseruhr",
+          "B": "Der Schaduf",
+          "C": "Die Sonnenuhr",
+          "D": "Die Waage"
+        },
+        "explanation": "Ein Schaduf nutzt Hebel, Eimer und Gegengewicht zum Wasserheben."
+      },
+      "ar": {
+        "question": "أي جهاز قديم كان يرفع الماء بذراع طويلة وثقل موازن؟",
+        "options": {
+          "A": "الساعة المائية",
+          "B": "الشادوف",
+          "C": "الساعة الشمسية",
+          "D": "الميزان"
+        },
+        "explanation": "يستخدم الشادوف ذراعًا ودلوًا وثقلًا موازنًا لرفع الماء."
+      },
+      "zh-CN": {
+        "question": "哪种古代装置利用长杠杆和配重提水？",
+        "options": {
+          "A": "水钟",
+          "B": "汲水杆",
+          "C": "日晷",
+          "D": "天平"
+        },
+        "explanation": "汲水杆利用杠杆、水桶和配重来提水。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-011",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "Quel savant chinois est associé à un ancien appareil indiquant la direction d'un séisme lointain ?",
+        "options": {
+          "A": "Confucius",
+          "B": "Sun Tzu",
+          "C": "Zhang Heng",
+          "D": "Laozi"
+        },
+        "explanation": "Zhang Heng est associé à un sismoscope du IIe siècle apr. J.-C."
+      },
+      "en": {
+        "question": "Which Chinese scholar is associated with an early device that indicated the direction of a distant earthquake?",
+        "options": {
+          "A": "Confucius",
+          "B": "Sun Tzu",
+          "C": "Zhang Heng",
+          "D": "Laozi"
+        },
+        "explanation": "Zhang Heng is associated with a 2nd-century CE seismoscope."
+      },
+      "es": {
+        "question": "¿Qué sabio chino se relaciona con un antiguo aparato que indicaba la dirección de un terremoto lejano?",
+        "options": {
+          "A": "Confucio",
+          "B": "Sun Tzu",
+          "C": "Zhang Heng",
+          "D": "Laozi"
+        },
+        "explanation": "Zhang Heng se relaciona con un sismoscopio del siglo II d. C."
+      },
+      "pt": {
+        "question": "Qual estudioso chinês está associado a um antigo aparelho que indicava a direção de um terremoto distante?",
+        "options": {
+          "A": "Confúcio",
+          "B": "Sun Tzu",
+          "C": "Zhang Heng",
+          "D": "Laozi"
+        },
+        "explanation": "Zhang Heng está associado a um sismoscópio do século II d.C."
+      },
+      "ht": {
+        "question": "Ki savan chinwa ki asosye ak yon aparèy ansyen ki te montre direksyon yon tranblemanntè byen lwen?",
+        "options": {
+          "A": "Konfisiyis",
+          "B": "Sun Tzu",
+          "C": "Zhang Heng",
+          "D": "Laozi"
+        },
+        "explanation": "Zhang Heng asosye ak yon sismoskòp nan dezyèm syèk aprè Jezi-Kri."
+      },
+      "de": {
+        "question": "Welcher chinesische Gelehrte wird mit einem frühen Gerät zur Anzeige der Richtung ferner Erdbeben verbunden?",
+        "options": {
+          "A": "Konfuzius",
+          "B": "Sunzi",
+          "C": "Zhang Heng",
+          "D": "Laozi"
+        },
+        "explanation": "Zhang Heng wird mit einem Seismoskop aus dem 2. Jahrhundert n. Chr. verbunden."
+      },
+      "ar": {
+        "question": "أي عالم صيني ارتبط بجهاز قديم يحدد اتجاه زلزال بعيد؟",
+        "options": {
+          "A": "كونفوشيوس",
+          "B": "سون تزو",
+          "C": "تشانغ هنغ",
+          "D": "لاوتسه"
+        },
+        "explanation": "يرتبط تشانغ هنغ بمقياس زلازل من القرن الثاني الميلادي."
+      },
+      "zh-CN": {
+        "question": "哪位中国学者与一种能指示远处地震方向的早期仪器有关？",
+        "options": {
+          "A": "孔子",
+          "B": "孙子",
+          "C": "张衡",
+          "D": "老子"
+        },
+        "explanation": "张衡与公元2世纪的一种地动仪有关。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-012",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "D",
+    "translations": {
+      "fr": {
+        "question": "Grâce à quoi un levier facilite-t-il le déplacement d'une charge ?",
+        "options": {
+          "A": "Il supprime la gravité",
+          "B": "Il transforme le bois en métal",
+          "C": "Il rend réellement la charge plus légère",
+          "D": "Il utilise un point d'appui"
+        },
+        "explanation": "Un levier transmet et peut amplifier une force grâce à un point d'appui."
+      },
+      "en": {
+        "question": "What helps a lever make moving a load easier?",
+        "options": {
+          "A": "It removes gravity",
+          "B": "It turns wood into metal",
+          "C": "It truly makes the load lighter",
+          "D": "It uses a fulcrum"
+        },
+        "explanation": "A lever transmits and can multiply force by using a fulcrum."
+      },
+      "es": {
+        "question": "¿Qué permite que una palanca facilite mover una carga?",
+        "options": {
+          "A": "Elimina la gravedad",
+          "B": "Convierte madera en metal",
+          "C": "Hace que la carga pese menos realmente",
+          "D": "Utiliza un punto de apoyo"
+        },
+        "explanation": "Una palanca transmite y puede multiplicar la fuerza mediante un punto de apoyo."
+      },
+      "pt": {
+        "question": "O que permite que uma alavanca facilite mover uma carga?",
+        "options": {
+          "A": "Elimina a gravidade",
+          "B": "Transforma madeira em metal",
+          "C": "Torna a carga realmente mais leve",
+          "D": "Usa um ponto de apoio"
+        },
+        "explanation": "Uma alavanca transmite e pode multiplicar a força usando um ponto de apoio."
+      },
+      "ht": {
+        "question": "Ki sa ki fè yon levye ede deplase yon chay pi fasil?",
+        "options": {
+          "A": "Li retire gravite",
+          "B": "Li fè bwa tounen metal",
+          "C": "Li fè chay la vin pi lejè toutbon",
+          "D": "Li sèvi ak yon pwen sipò"
+        },
+        "explanation": "Yon levye transmèt fòs epi li ka ogmante efè fòs la grasa yon pwen sipò."
+      },
+      "de": {
+        "question": "Wodurch erleichtert ein Hebel das Bewegen einer Last?",
+        "options": {
+          "A": "Er hebt die Schwerkraft auf",
+          "B": "Er verwandelt Holz in Metall",
+          "C": "Er macht die Last wirklich leichter",
+          "D": "Er nutzt einen Drehpunkt"
+        },
+        "explanation": "Ein Hebel überträgt und kann eine Kraft mithilfe eines Drehpunkts verstärken."
+      },
+      "ar": {
+        "question": "ما الذي يجعل الرافعة تسهّل تحريك الحمولة؟",
+        "options": {
+          "A": "تلغي الجاذبية",
+          "B": "تحوّل الخشب إلى معدن",
+          "C": "تجعل الحمولة أخف فعلًا",
+          "D": "تستخدم نقطة ارتكاز"
+        },
+        "explanation": "تنقل الرافعة القوة وقد تضاعف تأثيرها باستخدام نقطة ارتكاز."
+      },
+      "zh-CN": {
+        "question": "杠杆依靠什么帮助移动重物？",
+        "options": {
+          "A": "消除重力",
+          "B": "把木头变成金属",
+          "C": "真正减轻重物重量",
+          "D": "利用支点"
+        },
+        "explanation": "杠杆借助支点传递力量，有时还能放大施加的力。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-013",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quelle est la fonction principale d'une poulie fixe simple ?",
+        "options": {
+          "A": "Changer la direction de la force",
+          "B": "Produire de l'électricité",
+          "C": "Mesurer la température",
+          "D": "Arrêter le temps"
+        },
+        "explanation": "Une poulie fixe simple change surtout la direction de la force appliquée."
+      },
+      "en": {
+        "question": "What is the main function of a simple fixed pulley?",
+        "options": {
+          "A": "To change the direction of force",
+          "B": "To generate electricity",
+          "C": "To measure temperature",
+          "D": "To stop time"
+        },
+        "explanation": "A simple fixed pulley mainly changes the direction of the applied force."
+      },
+      "es": {
+        "question": "¿Cuál es la función principal de una polea fija simple?",
+        "options": {
+          "A": "Cambiar la dirección de la fuerza",
+          "B": "Producir electricidad",
+          "C": "Medir la temperatura",
+          "D": "Detener el tiempo"
+        },
+        "explanation": "Una polea fija simple cambia principalmente la dirección de la fuerza aplicada."
+      },
+      "pt": {
+        "question": "Qual é a função principal de uma polia fixa simples?",
+        "options": {
+          "A": "Mudar a direção da força",
+          "B": "Produzir eletricidade",
+          "C": "Medir a temperatura",
+          "D": "Parar o tempo"
+        },
+        "explanation": "Uma polia fixa simples muda principalmente a direção da força aplicada."
+      },
+      "ht": {
+        "question": "Ki fonksyon prensipal yon senp pouli fiks?",
+        "options": {
+          "A": "Chanje direksyon fòs la",
+          "B": "Pwodui elektrisite",
+          "C": "Mezire tanperati",
+          "D": "Sispann tan an"
+        },
+        "explanation": "Yon senp pouli fiks chanje sitou direksyon fòs la."
+      },
+      "de": {
+        "question": "Was ist die Hauptfunktion einer einfachen festen Rolle?",
+        "options": {
+          "A": "Die Kraftrichtung zu ändern",
+          "B": "Strom zu erzeugen",
+          "C": "Temperatur zu messen",
+          "D": "Die Zeit anzuhalten"
+        },
+        "explanation": "Eine feste Rolle ändert hauptsächlich die Richtung der angewandten Kraft."
+      },
+      "ar": {
+        "question": "ما الوظيفة الأساسية للبكرة الثابتة البسيطة؟",
+        "options": {
+          "A": "تغيير اتجاه القوة",
+          "B": "إنتاج الكهرباء",
+          "C": "قياس الحرارة",
+          "D": "إيقاف الزمن"
+        },
+        "explanation": "تغيّر البكرة الثابتة البسيطة أساسًا اتجاه القوة المستخدمة."
+      },
+      "zh-CN": {
+        "question": "简单定滑轮的主要作用是什么？",
+        "options": {
+          "A": "改变施力方向",
+          "B": "发电",
+          "C": "测量温度",
+          "D": "停止时间"
+        },
+        "explanation": "简单定滑轮主要改变施加力量的方向。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-014",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quel peuple ancien a contribué à diffuser son alphabet autour de la Méditerranée ?",
+        "options": {
+          "A": "Les Hittites",
+          "B": "Les Phéniciens",
+          "C": "Les Incas",
+          "D": "Les Vikings"
+        },
+        "explanation": "Les Phéniciens ont joué un rôle majeur dans la diffusion de leur alphabet consonantique."
+      },
+      "en": {
+        "question": "Which ancient people helped spread their alphabet around the Mediterranean?",
+        "options": {
+          "A": "The Hittites",
+          "B": "The Phoenicians",
+          "C": "The Incas",
+          "D": "The Vikings"
+        },
+        "explanation": "The Phoenicians played a major role in spreading their consonantal alphabet."
+      },
+      "es": {
+        "question": "¿Qué pueblo antiguo contribuyó a difundir su alfabeto por el Mediterráneo?",
+        "options": {
+          "A": "Los hititas",
+          "B": "Los fenicios",
+          "C": "Los incas",
+          "D": "Los vikingos"
+        },
+        "explanation": "Los fenicios desempeñaron un papel importante en la difusión de su alfabeto consonántico."
+      },
+      "pt": {
+        "question": "Qual povo antigo ajudou a difundir seu alfabeto pelo Mediterrâneo?",
+        "options": {
+          "A": "Os hititas",
+          "B": "Os fenícios",
+          "C": "Os incas",
+          "D": "Os vikings"
+        },
+        "explanation": "Os fenícios tiveram papel importante na difusão de seu alfabeto consonantal."
+      },
+      "ht": {
+        "question": "Ki pèp ansyen ki te ede gaye alfabè li nan zòn Mediterane a?",
+        "options": {
+          "A": "Etit yo",
+          "B": "Fenisyen yo",
+          "C": "Enka yo",
+          "D": "Vikin yo"
+        },
+        "explanation": "Fenisyen yo te jwe yon gwo wòl nan gaye alfabè konsòn yo a."
+      },
+      "de": {
+        "question": "Welches antike Volk verbreitete sein Alphabet im Mittelmeerraum?",
+        "options": {
+          "A": "Die Hethiter",
+          "B": "Die Phönizier",
+          "C": "Die Inka",
+          "D": "Die Wikinger"
+        },
+        "explanation": "Die Phönizier spielten eine wichtige Rolle bei der Verbreitung ihres Konsonantenalphabets."
+      },
+      "ar": {
+        "question": "أي شعب قديم ساهم في نشر أبجديته حول البحر المتوسط؟",
+        "options": {
+          "A": "الحيثيون",
+          "B": "الفينيقيون",
+          "C": "الإنكا",
+          "D": "الفايكنغ"
+        },
+        "explanation": "أدى الفينيقيون دورًا مهمًا في نشر أبجديتهم الصامتية."
+      },
+      "zh-CN": {
+        "question": "哪个古代民族曾帮助在地中海地区传播自己的字母系统？",
+        "options": {
+          "A": "赫梯人",
+          "B": "腓尼基人",
+          "C": "印加人",
+          "D": "维京人"
+        },
+        "explanation": "腓尼基人在传播其辅音字母系统方面发挥了重要作用。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-015",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "Quelle région a développé le système décimal de position qui a influencé les chiffres modernes ?",
+        "options": {
+          "A": "La Scandinavie",
+          "B": "L'Étrurie",
+          "C": "L'Inde",
+          "D": "La Gaule"
+        },
+        "explanation": "Le système décimal de position s'est développé en Inde au fil du temps."
+      },
+      "en": {
+        "question": "Which region developed the positional decimal system that influenced modern numerals?",
+        "options": {
+          "A": "Scandinavia",
+          "B": "Etruria",
+          "C": "India",
+          "D": "Gaul"
+        },
+        "explanation": "The positional decimal system developed in India over time."
+      },
+      "es": {
+        "question": "¿Qué región desarrolló el sistema decimal posicional que influyó en los números modernos?",
+        "options": {
+          "A": "Escandinavia",
+          "B": "Etruria",
+          "C": "India",
+          "D": "Galia"
+        },
+        "explanation": "El sistema decimal posicional se desarrolló en la India a lo largo del tiempo."
+      },
+      "pt": {
+        "question": "Qual região desenvolveu o sistema decimal posicional que influenciou os algarismos modernos?",
+        "options": {
+          "A": "Escandinávia",
+          "B": "Etrúria",
+          "C": "Índia",
+          "D": "Gália"
+        },
+        "explanation": "O sistema decimal posicional desenvolveu-se na Índia ao longo do tempo."
+      },
+      "ht": {
+        "question": "Ki rejyon ki te devlope sistèm desimal pozisyonèl ki enfliyanse chif modèn yo?",
+        "options": {
+          "A": "Eskandinavi",
+          "B": "Etriri",
+          "C": "End",
+          "D": "Gal"
+        },
+        "explanation": "Sistèm desimal pozisyonèl la te devlope nan peyi End pandan plizyè epòk."
+      },
+      "de": {
+        "question": "Welche Region entwickelte das dezimale Stellenwertsystem, das moderne Ziffern beeinflusste?",
+        "options": {
+          "A": "Skandinavien",
+          "B": "Etrurien",
+          "C": "Indien",
+          "D": "Gallien"
+        },
+        "explanation": "Das dezimale Stellenwertsystem entwickelte sich im Laufe der Zeit in Indien."
+      },
+      "ar": {
+        "question": "أي منطقة طوّرت النظام العشري الموضعي الذي أثّر في الأرقام الحديثة؟",
+        "options": {
+          "A": "إسكندنافيا",
+          "B": "إتروريا",
+          "C": "الهند",
+          "D": "بلاد الغال"
+        },
+        "explanation": "تطور النظام العشري الموضعي في الهند عبر الزمن."
+      },
+      "zh-CN": {
+        "question": "哪个地区发展了影响现代数字的十进位值制？",
+        "options": {
+          "A": "斯堪的纳维亚",
+          "B": "伊特鲁里亚",
+          "C": "印度",
+          "D": "高卢"
+        },
+        "explanation": "十进位值制在印度逐步发展。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-016",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "D",
+    "translations": {
+      "fr": {
+        "question": "Quel matériau était souvent façonné puis cuit pour fabriquer des récipients antiques ?",
+        "options": {
+          "A": "Le papier",
+          "B": "La craie",
+          "C": "La soie",
+          "D": "L'argile"
+        },
+        "explanation": "La céramique est fabriquée en façonnant puis en cuisant l'argile."
+      },
+      "en": {
+        "question": "Which material was often shaped and fired to make ancient containers?",
+        "options": {
+          "A": "Paper",
+          "B": "Chalk",
+          "C": "Silk",
+          "D": "Clay"
+        },
+        "explanation": "Ceramics are made by shaping and firing clay."
+      },
+      "es": {
+        "question": "¿Qué material se moldeaba y cocía para fabricar recipientes antiguos?",
+        "options": {
+          "A": "Papel",
+          "B": "Tiza",
+          "C": "Seda",
+          "D": "Arcilla"
+        },
+        "explanation": "La cerámica se fabrica moldeando y cociendo arcilla."
+      },
+      "pt": {
+        "question": "Qual material era moldado e queimado para fabricar recipientes antigos?",
+        "options": {
+          "A": "Papel",
+          "B": "Giz",
+          "C": "Seda",
+          "D": "Argila"
+        },
+        "explanation": "A cerâmica é feita moldando e queimando argila."
+      },
+      "ht": {
+        "question": "Ki materyèl yo te konn bay fòm epi kwit pou fè veso nan tan lontan?",
+        "options": {
+          "A": "Papye",
+          "B": "Lakre",
+          "C": "Swa",
+          "D": "Ajil"
+        },
+        "explanation": "Yo fè seramik lè yo bay ajil fòm epi yo kwit li."
+      },
+      "de": {
+        "question": "Welches Material wurde geformt und gebrannt, um antike Gefäße herzustellen?",
+        "options": {
+          "A": "Papier",
+          "B": "Kreide",
+          "C": "Seide",
+          "D": "Ton"
+        },
+        "explanation": "Keramik entsteht durch Formen und Brennen von Ton."
+      },
+      "ar": {
+        "question": "أي مادة كانت تُشكّل ثم تُحرق لصناعة الأواني القديمة؟",
+        "options": {
+          "A": "الورق",
+          "B": "الطباشير",
+          "C": "الحرير",
+          "D": "الطين"
+        },
+        "explanation": "يُصنع الخزف بتشكيل الطين ثم حرقه."
+      },
+      "zh-CN": {
+        "question": "古代常把哪种材料塑形并烧制成容器？",
+        "options": {
+          "A": "纸",
+          "B": "粉笔",
+          "C": "丝绸",
+          "D": "黏土"
+        },
+        "explanation": "陶器通过塑形并烧制黏土制成。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-017",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "A",
+    "translations": {
+      "fr": {
+        "question": "Quel était le rôle principal des aqueducs romains ?",
+        "options": {
+          "A": "Acheminer l'eau vers les villes",
+          "B": "Fabriquer du verre",
+          "C": "Mesurer les saisons",
+          "D": "Frapper des pièces"
+        },
+        "explanation": "Les aqueducs conduisaient l'eau des sources vers les villes, souvent grâce à la pente du terrain."
+      },
+      "en": {
+        "question": "What was the main purpose of Roman aqueducts?",
+        "options": {
+          "A": "To carry water to cities",
+          "B": "To make glass",
+          "C": "To measure seasons",
+          "D": "To mint coins"
+        },
+        "explanation": "Aqueducts carried water from sources to cities, often using the land's slope."
+      },
+      "es": {
+        "question": "¿Cuál era la función principal de los acueductos romanos?",
+        "options": {
+          "A": "Llevar agua a las ciudades",
+          "B": "Fabricar vidrio",
+          "C": "Medir las estaciones",
+          "D": "Acuñar monedas"
+        },
+        "explanation": "Los acueductos llevaban agua desde las fuentes hasta las ciudades, aprovechando a menudo la pendiente."
+      },
+      "pt": {
+        "question": "Qual era a principal função dos aquedutos romanos?",
+        "options": {
+          "A": "Levar água às cidades",
+          "B": "Produzir vidro",
+          "C": "Medir as estações",
+          "D": "Fabricar moedas"
+        },
+        "explanation": "Os aquedutos levavam água das fontes às cidades, muitas vezes aproveitando a inclinação do terreno."
+      },
+      "ht": {
+        "question": "Ki wòl prensipal akedik women yo te genyen?",
+        "options": {
+          "A": "Pote dlo nan vil yo",
+          "B": "Pwodui vè",
+          "C": "Mezire sezon yo",
+          "D": "Frape pyès monnen"
+        },
+        "explanation": "Akedik yo te pote dlo soti nan sous pou rive nan vil yo, souvan grasa pant tèren an."
+      },
+      "de": {
+        "question": "Was war die Hauptaufgabe römischer Aquädukte?",
+        "options": {
+          "A": "Wasser in Städte zu leiten",
+          "B": "Glas herzustellen",
+          "C": "Jahreszeiten zu messen",
+          "D": "Münzen zu prägen"
+        },
+        "explanation": "Aquädukte leiteten Wasser von Quellen in Städte und nutzten oft das Geländegefälle."
+      },
+      "ar": {
+        "question": "ما الوظيفة الأساسية للقنوات المائية الرومانية؟",
+        "options": {
+          "A": "نقل المياه إلى المدن",
+          "B": "صناعة الزجاج",
+          "C": "قياس الفصول",
+          "D": "سك العملات"
+        },
+        "explanation": "كانت القنوات تنقل المياه من الينابيع إلى المدن مستفيدة غالبًا من انحدار الأرض."
+      },
+      "zh-CN": {
+        "question": "罗马引水渠的主要作用是什么？",
+        "options": {
+          "A": "把水输送到城市",
+          "B": "制造玻璃",
+          "C": "测量季节",
+          "D": "铸造钱币"
+        },
+        "explanation": "引水渠把水源地的水输送到城市，常利用地形坡度。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-018",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "B",
+    "translations": {
+      "fr": {
+        "question": "Quelle fibre était produite par le ver à soie et utilisée pour les tissus fins en Chine ancienne ?",
+        "options": {
+          "A": "Le lin",
+          "B": "La soie",
+          "C": "Le coton",
+          "D": "La laine"
+        },
+        "explanation": "La soie est une fibre produite par le ver à soie et importante dans la Chine ancienne."
+      },
+      "en": {
+        "question": "Which fiber was produced by silkworms and used for fine fabrics in ancient China?",
+        "options": {
+          "A": "Flax",
+          "B": "Silk",
+          "C": "Cotton",
+          "D": "Wool"
+        },
+        "explanation": "Silk is produced by silkworms and became important in ancient China."
+      },
+      "es": {
+        "question": "¿Qué fibra producían los gusanos de seda y se usaba en tejidos finos de la antigua China?",
+        "options": {
+          "A": "Lino",
+          "B": "Seda",
+          "C": "Algodón",
+          "D": "Lana"
+        },
+        "explanation": "La seda es producida por gusanos de seda y fue importante en la antigua China."
+      },
+      "pt": {
+        "question": "Qual fibra era produzida pelo bicho-da-seda e usada em tecidos finos na China antiga?",
+        "options": {
+          "A": "Linho",
+          "B": "Seda",
+          "C": "Algodão",
+          "D": "Lã"
+        },
+        "explanation": "A seda é produzida pelo bicho-da-seda e tornou-se importante na China antiga."
+      },
+      "ht": {
+        "question": "Ki fib vè swa pwodui e yo te itilize pou twal fen nan ansyen Lachin?",
+        "options": {
+          "A": "Len",
+          "B": "Swa",
+          "C": "Koton",
+          "D": "Lenn"
+        },
+        "explanation": "Vè swa pwodui swa, ki te vin enpòtan nan ansyen Lachin."
+      },
+      "de": {
+        "question": "Welche Faser wurde von Seidenraupen erzeugt und im alten China für feine Stoffe verwendet?",
+        "options": {
+          "A": "Flachs",
+          "B": "Seide",
+          "C": "Baumwolle",
+          "D": "Wolle"
+        },
+        "explanation": "Seide wird von Seidenraupen erzeugt und wurde im alten China wichtig."
+      },
+      "ar": {
+        "question": "أي ألياف تنتجها دودة القز واستُخدمت للأقمشة الناعمة في الصين القديمة؟",
+        "options": {
+          "A": "الكتان",
+          "B": "الحرير",
+          "C": "القطن",
+          "D": "الصوف"
+        },
+        "explanation": "تنتج دودة القز الحرير، وأصبح مهمًا في الصين القديمة."
+      },
+      "zh-CN": {
+        "question": "哪种纤维由蚕生产，并用于古代中国的精细织物？",
+        "options": {
+          "A": "亚麻",
+          "B": "丝绸",
+          "C": "棉花",
+          "D": "羊毛"
+        },
+        "explanation": "丝绸由蚕生产，并在古代中国变得十分重要。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-019",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "C",
+    "translations": {
+      "fr": {
+        "question": "Quel matériau de construction romain associait un liant à base de chaux et des agrégats ?",
+        "options": {
+          "A": "Le papier mâché",
+          "B": "Le verre soufflé",
+          "C": "Le béton romain",
+          "D": "La soie"
+        },
+        "explanation": "Le béton romain, ou opus caementicium, associait de la chaux à des fragments de pierre et autres agrégats."
+      },
+      "en": {
+        "question": "Which Roman building material combined a lime-based binder with aggregates?",
+        "options": {
+          "A": "Papier-mâché",
+          "B": "Blown glass",
+          "C": "Roman concrete",
+          "D": "Silk"
+        },
+        "explanation": "Roman concrete combined a lime-based binder with stone fragments and other aggregates."
+      },
+      "es": {
+        "question": "¿Qué material de construcción romano combinaba un aglutinante de cal con áridos?",
+        "options": {
+          "A": "Papel maché",
+          "B": "Vidrio soplado",
+          "C": "Hormigón romano",
+          "D": "Seda"
+        },
+        "explanation": "El hormigón romano combinaba un aglutinante de cal con fragmentos de piedra y otros áridos."
+      },
+      "pt": {
+        "question": "Qual material de construção romano combinava um aglutinante de cal com agregados?",
+        "options": {
+          "A": "Papel machê",
+          "B": "Vidro soprado",
+          "C": "Concreto romano",
+          "D": "Seda"
+        },
+        "explanation": "O concreto romano combinava um aglutinante de cal com pedaços de pedra e outros agregados."
+      },
+      "ht": {
+        "question": "Ki materyèl konstriksyon women ki te melanje yon lyan ki gen lacho ak lòt materyèl?",
+        "options": {
+          "A": "Papye kole",
+          "B": "Vè soufle",
+          "C": "Beton women",
+          "D": "Swa"
+        },
+        "explanation": "Beton women an te melanje lacho ak moso wòch ansanm ak lòt materyèl."
+      },
+      "de": {
+        "question": "Welcher römische Baustoff verband ein kalkbasiertes Bindemittel mit Zuschlagstoffen?",
+        "options": {
+          "A": "Pappmaché",
+          "B": "Geblasenes Glas",
+          "C": "Römischer Beton",
+          "D": "Seide"
+        },
+        "explanation": "Römischer Beton verband ein kalkbasiertes Bindemittel mit Steinstücken und anderen Zuschlagstoffen."
+      },
+      "ar": {
+        "question": "أي مادة بناء رومانية جمعت مادة رابطة أساسها الجير مع الركام؟",
+        "options": {
+          "A": "الورق المعجن",
+          "B": "الزجاج المنفوخ",
+          "C": "الخرسانة الرومانية",
+          "D": "الحرير"
+        },
+        "explanation": "جمعت الخرسانة الرومانية الجير مع قطع الحجر ومواد أخرى."
+      },
+      "zh-CN": {
+        "question": "哪种罗马建筑材料将石灰基胶结材料与骨料混合？",
+        "options": {
+          "A": "纸浆糊",
+          "B": "吹制玻璃",
+          "C": "罗马混凝土",
+          "D": "丝绸"
+        },
+        "explanation": "罗马混凝土将石灰基胶结材料与石块等骨料混合制成。"
+      }
+    }
+  },
+  {
+    "id": "HIS-002-020",
+    "categoryId": "history",
+    "seriesId": "HIS-002",
+    "correctOptionId": "D",
+    "translations": {
+      "fr": {
+        "question": "Quel instrument ancien utilisait les propriétés magnétiques de la magnétite ?",
+        "options": {
+          "A": "Le thermomètre",
+          "B": "Le microscope",
+          "C": "Le télescope",
+          "D": "La boussole"
+        },
+        "explanation": "Les premières boussoles chinoises utilisaient la magnétite ; leurs premiers usages n'étaient pas tous liés à la navigation."
+      },
+      "en": {
+        "question": "Which ancient instrument used the magnetic properties of lodestone?",
+        "options": {
+          "A": "The thermometer",
+          "B": "The microscope",
+          "C": "The telescope",
+          "D": "The compass"
+        },
+        "explanation": "Early Chinese compasses used lodestone; their first uses were not all related to navigation."
+      },
+      "es": {
+        "question": "¿Qué instrumento antiguo utilizaba las propiedades magnéticas de la magnetita?",
+        "options": {
+          "A": "El termómetro",
+          "B": "El microscopio",
+          "C": "El telescopio",
+          "D": "La brújula"
+        },
+        "explanation": "Las primeras brújulas chinas usaban magnetita; sus primeros usos no siempre eran para navegar."
+      },
+      "pt": {
+        "question": "Qual instrumento antigo utilizava as propriedades magnéticas da magnetita?",
+        "options": {
+          "A": "O termômetro",
+          "B": "O microscópio",
+          "C": "O telescópio",
+          "D": "A bússola"
+        },
+        "explanation": "As primeiras bússolas chinesas usavam magnetita; seus usos iniciais nem sempre eram ligados à navegação."
+      },
+      "ht": {
+        "question": "Ki ansyen enstriman ki te sèvi ak pwopriyete mayetik mayetit?",
+        "options": {
+          "A": "Tèmomèt la",
+          "B": "Mikwoskòp la",
+          "C": "Teleskòp la",
+          "D": "Bousòl la"
+        },
+        "explanation": "Premye bousòl chinwa yo te sèvi ak mayetit; premye itilizasyon yo pa t toujou pou navigasyon."
+      },
+      "de": {
+        "question": "Welches antike Instrument nutzte die magnetischen Eigenschaften von Magnetit?",
+        "options": {
+          "A": "Das Thermometer",
+          "B": "Das Mikroskop",
+          "C": "Das Teleskop",
+          "D": "Der Kompass"
+        },
+        "explanation": "Frühe chinesische Kompasse nutzten Magnetit; ihre ersten Anwendungen dienten nicht alle der Navigation."
+      },
+      "ar": {
+        "question": "أي أداة قديمة استخدمت الخصائص المغناطيسية للمغنيتيت؟",
+        "options": {
+          "A": "مقياس الحرارة",
+          "B": "المجهر",
+          "C": "التلسكوب",
+          "D": "البوصلة"
+        },
+        "explanation": "استخدمت البوصلات الصينية الأولى المغنيتيت، ولم تكن كل استخداماتها الأولى للملاحة."
+      },
+      "zh-CN": {
+        "question": "哪种古代仪器利用了磁铁矿的磁性？",
+        "options": {
+          "A": "温度计",
+          "B": "显微镜",
+          "C": "望远镜",
+          "D": "指南针"
+        },
+        "explanation": "早期中国指南针使用磁铁矿，其最初用途并不全都与航海有关。"
+      }
+    }
+  }
+]
